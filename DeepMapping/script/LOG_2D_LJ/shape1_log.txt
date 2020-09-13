@@ -1,0 +1,4 @@
+/home/mmvc/mmvc-ny-nas/Yi_Shi/data/DM-2D-New/shape1.mat
+loading dataset
+256 torch.Size([256, 256, 2])
+creating model
