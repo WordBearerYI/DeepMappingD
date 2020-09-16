@@ -1,0 +1,51 @@
+maxpool
+latent size single: 16
+loading dataset
+16
+pccppcpc1123 (16, 27, 48, 3)
+creating model
+start training
+[8/15000], training loss: 0.1944
+[16/15000], training loss: 0.1642
+[24/15000], training loss: 0.1291
+[32/15000], training loss: 0.1269
+[40/15000], training loss: 0.1195
+16
+AVD_Home_008_1_traj8, ate: 428.8668384337546
+model saved to ../results/AVD/AVD_Home_008_1_traj8/model_best.pth
+[48/15000], training loss: 0.1259
+[56/15000], training loss: 0.1214
+[64/15000], training loss: 0.1212
+[72/15000], training loss: 0.1198
+[80/15000], training loss: 0.1249
+16
+AVD_Home_008_1_traj8, ate: 412.75329239325146
+model saved to ../results/AVD/AVD_Home_008_1_traj8/model_best.pth
+[88/15000], training loss: 0.1224
+[96/15000], training loss: 0.1160
+[104/15000], training loss: 0.1140
+[112/15000], training loss: 0.1203
+[120/15000], training loss: 0.1178
+16
+AVD_Home_008_1_traj8, ate: 399.81128876082204
+model saved to ../results/AVD/AVD_Home_008_1_traj8/model_best.pth
+[128/15000], training loss: 0.1170
+[136/15000], training loss: 0.1070
+[144/15000], training loss: 0.1210
+[152/15000], training loss: 0.1162
+[160/15000], training loss: 0.1134
+./run_eval_vis_AVD.sh: line 4:  9966 Terminated              python eval_vis_AVD.py -c $CHECKPOINT_DIR
+model saved to ../results/AVD/AVD_Home_008_1_traj8/model_best.pth
+[168/15000], training loss: 0.1160
+[176/15000], training loss: 0.1116
+[184/15000], training loss: 0.1208
+[192/15000], training loss: 0.1173
+[200/15000], training loss: 0.1051
+16
+AVD_Home_008_1_traj8, ate: 365.0592016213828
+model saved to ../results/AVD/AVD_Home_008_1_traj8/model_best.pth
+[208/15000], training loss: 0.1150
+[216/15000], training loss: 0.1096
+[224/15000], training loss: 0.1248
+./lstm_run_train_AVD.sh: line 24:  9881 Terminated              python lstm_train_AVD.py -o $MODE -g $GPUID -y $LAT --name $NAME -d $DATA_DIR -t ${TRAJ}.txt -e $EPOCH -b $BS -l $LOSS -n $N --log_interval $LOG
+./lstm_run_train_AVD.sh: line 25: /home/mmvc: Is a directory

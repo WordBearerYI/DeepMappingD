@@ -1,0 +1,3007 @@
+maxpool
+latent size single: 16
+loading dataset
+16
+pccppcpc1123 (16, 27, 48, 3)
+creating model
+start training
+[8/15000], training loss: 0.1667
+[16/15000], training loss: 0.1243
+[24/15000], training loss: 0.1129
+[32/15000], training loss: 0.1112
+[40/15000], training loss: 0.1034
+16
+AVD_Home_010_1_traj9, ate: 422.4769013838415
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[48/15000], training loss: 0.1059
+[56/15000], training loss: 0.1051
+[64/15000], training loss: 0.0974
+[72/15000], training loss: 0.1006
+[80/15000], training loss: 0.1129
+16
+AVD_Home_010_1_traj9, ate: 393.22836210855706
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[88/15000], training loss: 0.1037
+[96/15000], training loss: 0.0968
+[104/15000], training loss: 0.0824
+[112/15000], training loss: 0.0938
+[120/15000], training loss: 0.0975
+16
+AVD_Home_010_1_traj9, ate: 455.19598246961874
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[128/15000], training loss: 0.0973
+[136/15000], training loss: 0.0832
+[144/15000], training loss: 0.1018
+[152/15000], training loss: 0.0934
+[160/15000], training loss: 0.0838
+16
+AVD_Home_010_1_traj9, ate: 474.6535161205831
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[168/15000], training loss: 0.0965
+[176/15000], training loss: 0.0864
+[184/15000], training loss: 0.1020
+[192/15000], training loss: 0.0963
+[200/15000], training loss: 0.0828
+16
+AVD_Home_010_1_traj9, ate: 399.3907638458165
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[208/15000], training loss: 0.0935
+[216/15000], training loss: 0.0827
+[224/15000], training loss: 0.1143
+[232/15000], training loss: 0.1028
+[240/15000], training loss: 0.0924
+16
+AVD_Home_010_1_traj9, ate: 405.13862862489503
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[248/15000], training loss: 0.0849
+[256/15000], training loss: 0.0811
+[264/15000], training loss: 0.0938
+[272/15000], training loss: 0.1001
+[280/15000], training loss: 0.0748
+16
+AVD_Home_010_1_traj9, ate: 377.84440973906106
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[288/15000], training loss: 0.0909
+[296/15000], training loss: 0.0800
+[304/15000], training loss: 0.0814
+[312/15000], training loss: 0.1082
+[320/15000], training loss: 0.0815
+16
+AVD_Home_010_1_traj9, ate: 381.69308966089847
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[328/15000], training loss: 0.0904
+[336/15000], training loss: 0.0822
+[344/15000], training loss: 0.0736
+[352/15000], training loss: 0.0736
+[360/15000], training loss: 0.0964
+16
+AVD_Home_010_1_traj9, ate: 376.75843857285105
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[368/15000], training loss: 0.0907
+[376/15000], training loss: 0.0812
+[384/15000], training loss: 0.0856
+[392/15000], training loss: 0.0941
+[400/15000], training loss: 0.0847
+16
+AVD_Home_010_1_traj9, ate: 367.3168455871779
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[408/15000], training loss: 0.0847
+[416/15000], training loss: 0.0929
+[424/15000], training loss: 0.0978
+[432/15000], training loss: 0.0859
+[440/15000], training loss: 0.0719
+16
+AVD_Home_010_1_traj9, ate: 379.4713520678087
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[448/15000], training loss: 0.0876
+[456/15000], training loss: 0.0921
+[464/15000], training loss: 0.0732
+[472/15000], training loss: 0.0831
+[480/15000], training loss: 0.0826
+16
+AVD_Home_010_1_traj9, ate: 370.487067693282
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[488/15000], training loss: 0.0914
+[496/15000], training loss: 0.0869
+[504/15000], training loss: 0.0835
+[512/15000], training loss: 0.0847
+[520/15000], training loss: 0.0909
+16
+AVD_Home_010_1_traj9, ate: 375.54697281570293
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[528/15000], training loss: 0.0963
+[536/15000], training loss: 0.0721
+[544/15000], training loss: 0.0857
+[552/15000], training loss: 0.0864
+[560/15000], training loss: 0.0807
+16
+AVD_Home_010_1_traj9, ate: 377.45971923593294
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[568/15000], training loss: 0.1024
+[576/15000], training loss: 0.0929
+[584/15000], training loss: 0.0825
+[592/15000], training loss: 0.0891
+[600/15000], training loss: 0.0848
+16
+AVD_Home_010_1_traj9, ate: 377.3025273030383
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[608/15000], training loss: 0.0822
+[616/15000], training loss: 0.0659
+[624/15000], training loss: 0.0892
+[632/15000], training loss: 0.0697
+[640/15000], training loss: 0.0747
+16
+AVD_Home_010_1_traj9, ate: 376.0507232056821
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[648/15000], training loss: 0.0665
+[656/15000], training loss: 0.0723
+[664/15000], training loss: 0.0858
+[672/15000], training loss: 0.0942
+[680/15000], training loss: 0.0921
+16
+AVD_Home_010_1_traj9, ate: 376.7229954451805
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[688/15000], training loss: 0.0875
+[696/15000], training loss: 0.0765
+[704/15000], training loss: 0.0706
+[712/15000], training loss: 0.0745
+[720/15000], training loss: 0.0673
+16
+AVD_Home_010_1_traj9, ate: 376.5875481707904
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[728/15000], training loss: 0.0805
+[736/15000], training loss: 0.0759
+[744/15000], training loss: 0.0919
+[752/15000], training loss: 0.0907
+[760/15000], training loss: 0.0720
+16
+AVD_Home_010_1_traj9, ate: 366.55836333248953
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[768/15000], training loss: 0.0797
+[776/15000], training loss: 0.0848
+[784/15000], training loss: 0.0815
+[792/15000], training loss: 0.0859
+[800/15000], training loss: 0.0849
+16
+AVD_Home_010_1_traj9, ate: 386.95196398465174
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[808/15000], training loss: 0.0675
+[816/15000], training loss: 0.0824
+[824/15000], training loss: 0.0791
+[832/15000], training loss: 0.0676
+[840/15000], training loss: 0.0663
+16
+AVD_Home_010_1_traj9, ate: 362.6440773781299
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[848/15000], training loss: 0.0837
+[856/15000], training loss: 0.0806
+[864/15000], training loss: 0.0785
+[872/15000], training loss: 0.0832
+[880/15000], training loss: 0.0884
+16
+AVD_Home_010_1_traj9, ate: 395.45559070725267
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[888/15000], training loss: 0.0871
+[896/15000], training loss: 0.0732
+[904/15000], training loss: 0.0613
+[912/15000], training loss: 0.0677
+[920/15000], training loss: 0.0705
+16
+AVD_Home_010_1_traj9, ate: 375.79085698855226
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[928/15000], training loss: 0.0579
+[936/15000], training loss: 0.0706
+[944/15000], training loss: 0.0918
+[952/15000], training loss: 0.0829
+[960/15000], training loss: 0.0615
+16
+AVD_Home_010_1_traj9, ate: 382.9351357005701
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[968/15000], training loss: 0.0771
+[976/15000], training loss: 0.0669
+[984/15000], training loss: 0.0742
+[992/15000], training loss: 0.0829
+[1000/15000], training loss: 0.0716
+16
+AVD_Home_010_1_traj9, ate: 375.79474425786975
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1008/15000], training loss: 0.0851
+[1016/15000], training loss: 0.0641
+[1024/15000], training loss: 0.0652
+[1032/15000], training loss: 0.0735
+[1040/15000], training loss: 0.0784
+16
+AVD_Home_010_1_traj9, ate: 389.0387400306467
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1048/15000], training loss: 0.0715
+[1056/15000], training loss: 0.0771
+[1064/15000], training loss: 0.0838
+[1072/15000], training loss: 0.0660
+[1080/15000], training loss: 0.0752
+16
+AVD_Home_010_1_traj9, ate: 388.65635018320836
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1088/15000], training loss: 0.0865
+[1096/15000], training loss: 0.0769
+[1104/15000], training loss: 0.0789
+[1112/15000], training loss: 0.0595
+[1120/15000], training loss: 0.0603
+16
+AVD_Home_010_1_traj9, ate: 369.19474855822614
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1128/15000], training loss: 0.0813
+[1136/15000], training loss: 0.0644
+[1144/15000], training loss: 0.0742
+[1152/15000], training loss: 0.0862
+[1160/15000], training loss: 0.0920
+16
+AVD_Home_010_1_traj9, ate: 377.56285759884094
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1168/15000], training loss: 0.0636
+[1176/15000], training loss: 0.0800
+[1184/15000], training loss: 0.0818
+[1192/15000], training loss: 0.0745
+[1200/15000], training loss: 0.0669
+16
+AVD_Home_010_1_traj9, ate: 379.8208578603595
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1208/15000], training loss: 0.0662
+[1216/15000], training loss: 0.0702
+[1224/15000], training loss: 0.0678
+[1232/15000], training loss: 0.0550
+[1240/15000], training loss: 0.0663
+16
+AVD_Home_010_1_traj9, ate: 362.18424551381185
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1248/15000], training loss: 0.0856
+[1256/15000], training loss: 0.0577
+[1264/15000], training loss: 0.0583
+[1272/15000], training loss: 0.0635
+[1280/15000], training loss: 0.0684
+16
+AVD_Home_010_1_traj9, ate: 364.8762798788943
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1288/15000], training loss: 0.0764
+[1296/15000], training loss: 0.0854
+[1304/15000], training loss: 0.0682
+[1312/15000], training loss: 0.0710
+[1320/15000], training loss: 0.0734
+16
+AVD_Home_010_1_traj9, ate: 375.27043648555434
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1328/15000], training loss: 0.0532
+[1336/15000], training loss: 0.0852
+[1344/15000], training loss: 0.0641
+[1352/15000], training loss: 0.0921
+[1360/15000], training loss: 0.0779
+16
+AVD_Home_010_1_traj9, ate: 385.264023324177
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1368/15000], training loss: 0.0723
+[1376/15000], training loss: 0.0719
+[1384/15000], training loss: 0.0652
+[1392/15000], training loss: 0.0645
+[1400/15000], training loss: 0.0893
+16
+AVD_Home_010_1_traj9, ate: 371.5474893163142
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1408/15000], training loss: 0.0620
+[1416/15000], training loss: 0.0613
+[1424/15000], training loss: 0.0934
+[1432/15000], training loss: 0.0848
+[1440/15000], training loss: 0.0751
+16
+AVD_Home_010_1_traj9, ate: 375.36135657541496
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1448/15000], training loss: 0.0737
+[1456/15000], training loss: 0.0654
+[1464/15000], training loss: 0.0761
+[1472/15000], training loss: 0.0576
+[1480/15000], training loss: 0.0607
+16
+AVD_Home_010_1_traj9, ate: 369.78678292738994
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1488/15000], training loss: 0.0613
+[1496/15000], training loss: 0.0568
+[1504/15000], training loss: 0.0679
+[1512/15000], training loss: 0.0637
+[1520/15000], training loss: 0.0675
+16
+AVD_Home_010_1_traj9, ate: 368.0549263834788
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1528/15000], training loss: 0.0685
+[1536/15000], training loss: 0.0694
+[1544/15000], training loss: 0.0667
+[1552/15000], training loss: 0.0656
+[1560/15000], training loss: 0.0627
+16
+AVD_Home_010_1_traj9, ate: 362.29179000369754
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1568/15000], training loss: 0.0786
+[1576/15000], training loss: 0.0818
+[1584/15000], training loss: 0.0577
+[1592/15000], training loss: 0.0603
+[1600/15000], training loss: 0.0806
+16
+AVD_Home_010_1_traj9, ate: 378.21448326595544
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1608/15000], training loss: 0.0680
+[1616/15000], training loss: 0.0595
+[1624/15000], training loss: 0.0604
+[1632/15000], training loss: 0.0765
+[1640/15000], training loss: 0.0613
+16
+AVD_Home_010_1_traj9, ate: 363.96338055202546
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1648/15000], training loss: 0.0726
+[1656/15000], training loss: 0.0846
+[1664/15000], training loss: 0.0709
+[1672/15000], training loss: 0.0650
+[1680/15000], training loss: 0.0551
+16
+AVD_Home_010_1_traj9, ate: 359.11514315472186
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1688/15000], training loss: 0.0564
+[1696/15000], training loss: 0.0542
+[1704/15000], training loss: 0.0626
+[1712/15000], training loss: 0.0830
+[1720/15000], training loss: 0.0797
+16
+AVD_Home_010_1_traj9, ate: 362.56036481953356
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1728/15000], training loss: 0.0690
+[1736/15000], training loss: 0.0513
+[1744/15000], training loss: 0.0596
+[1752/15000], training loss: 0.0773
+[1760/15000], training loss: 0.0588
+16
+AVD_Home_010_1_traj9, ate: 346.2647986493588
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1768/15000], training loss: 0.0946
+[1776/15000], training loss: 0.0595
+[1784/15000], training loss: 0.0525
+[1792/15000], training loss: 0.0598
+[1800/15000], training loss: 0.0825
+16
+AVD_Home_010_1_traj9, ate: 362.24632093488674
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1808/15000], training loss: 0.0941
+[1816/15000], training loss: 0.0941
+[1824/15000], training loss: 0.0784
+[1832/15000], training loss: 0.0759
+[1840/15000], training loss: 0.0905
+16
+AVD_Home_010_1_traj9, ate: 375.2019401279122
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1848/15000], training loss: 0.0671
+[1856/15000], training loss: 0.0622
+[1864/15000], training loss: 0.0530
+[1872/15000], training loss: 0.0730
+[1880/15000], training loss: 0.0619
+16
+AVD_Home_010_1_traj9, ate: 363.32021539710706
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1888/15000], training loss: 0.0839
+[1896/15000], training loss: 0.0556
+[1904/15000], training loss: 0.0503
+[1912/15000], training loss: 0.0540
+[1920/15000], training loss: 0.0708
+16
+AVD_Home_010_1_traj9, ate: 352.9862069362201
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1928/15000], training loss: 0.0701
+[1936/15000], training loss: 0.0736
+[1944/15000], training loss: 0.0894
+[1952/15000], training loss: 0.0550
+[1960/15000], training loss: 0.0659
+16
+AVD_Home_010_1_traj9, ate: 355.78631412895453
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[1968/15000], training loss: 0.0835
+[1976/15000], training loss: 0.0767
+[1984/15000], training loss: 0.0728
+[1992/15000], training loss: 0.0878
+[2000/15000], training loss: 0.0612
+16
+AVD_Home_010_1_traj9, ate: 362.4888722201751
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2008/15000], training loss: 0.0643
+[2016/15000], training loss: 0.0941
+[2024/15000], training loss: 0.0540
+[2032/15000], training loss: 0.0591
+[2040/15000], training loss: 0.0873
+16
+AVD_Home_010_1_traj9, ate: 352.9054513214496
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2048/15000], training loss: 0.0654
+[2056/15000], training loss: 0.0533
+[2064/15000], training loss: 0.0673
+[2072/15000], training loss: 0.0751
+[2080/15000], training loss: 0.0917
+16
+AVD_Home_010_1_traj9, ate: 353.34061985172383
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2088/15000], training loss: 0.0969
+[2096/15000], training loss: 0.0772
+[2104/15000], training loss: 0.0797
+[2112/15000], training loss: 0.0556
+[2120/15000], training loss: 0.0834
+16
+AVD_Home_010_1_traj9, ate: 367.00704800361484
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2128/15000], training loss: 0.0704
+[2136/15000], training loss: 0.0696
+[2144/15000], training loss: 0.0655
+[2152/15000], training loss: 0.0728
+[2160/15000], training loss: 0.0727
+16
+AVD_Home_010_1_traj9, ate: 349.94049243255796
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2168/15000], training loss: 0.0503
+[2176/15000], training loss: 0.0675
+[2184/15000], training loss: 0.0658
+[2192/15000], training loss: 0.0569
+[2200/15000], training loss: 0.0643
+16
+AVD_Home_010_1_traj9, ate: 356.42479897114987
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2208/15000], training loss: 0.0506
+[2216/15000], training loss: 0.0532
+[2224/15000], training loss: 0.0482
+[2232/15000], training loss: 0.0602
+[2240/15000], training loss: 0.0605
+16
+AVD_Home_010_1_traj9, ate: 362.17107497748617
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2248/15000], training loss: 0.0594
+[2256/15000], training loss: 0.0773
+[2264/15000], training loss: 0.0683
+[2272/15000], training loss: 0.0504
+[2280/15000], training loss: 0.0489
+16
+AVD_Home_010_1_traj9, ate: 351.11107861990166
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2288/15000], training loss: 0.0517
+[2296/15000], training loss: 0.0876
+[2304/15000], training loss: 0.0642
+[2312/15000], training loss: 0.0514
+[2320/15000], training loss: 0.0707
+16
+AVD_Home_010_1_traj9, ate: 353.2568460933091
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2328/15000], training loss: 0.0677
+[2336/15000], training loss: 0.0579
+[2344/15000], training loss: 0.0630
+[2352/15000], training loss: 0.0611
+[2360/15000], training loss: 0.0800
+16
+AVD_Home_010_1_traj9, ate: 351.43821135726455
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2368/15000], training loss: 0.0456
+[2376/15000], training loss: 0.0808
+[2384/15000], training loss: 0.0685
+[2392/15000], training loss: 0.0540
+[2400/15000], training loss: 0.0486
+16
+AVD_Home_010_1_traj9, ate: 339.637298152093
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2408/15000], training loss: 0.0635
+[2416/15000], training loss: 0.0485
+[2424/15000], training loss: 0.0585
+[2432/15000], training loss: 0.0737
+[2440/15000], training loss: 0.0701
+16
+AVD_Home_010_1_traj9, ate: 358.309971970355
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2448/15000], training loss: 0.0664
+[2456/15000], training loss: 0.0550
+[2464/15000], training loss: 0.0720
+[2472/15000], training loss: 0.0539
+[2480/15000], training loss: 0.0546
+16
+AVD_Home_010_1_traj9, ate: 354.5825760573353
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2488/15000], training loss: 0.0502
+[2496/15000], training loss: 0.0539
+[2504/15000], training loss: 0.0664
+[2512/15000], training loss: 0.0653
+[2520/15000], training loss: 0.0581
+16
+AVD_Home_010_1_traj9, ate: 349.380402246859
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2528/15000], training loss: 0.0657
+[2536/15000], training loss: 0.0715
+[2544/15000], training loss: 0.0461
+[2552/15000], training loss: 0.0512
+[2560/15000], training loss: 0.0554
+16
+AVD_Home_010_1_traj9, ate: 352.0475107908931
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2568/15000], training loss: 0.0789
+[2576/15000], training loss: 0.0521
+[2584/15000], training loss: 0.0654
+[2592/15000], training loss: 0.0676
+[2600/15000], training loss: 0.0597
+16
+AVD_Home_010_1_traj9, ate: 356.9833961190189
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2608/15000], training loss: 0.0596
+[2616/15000], training loss: 0.0607
+[2624/15000], training loss: 0.0514
+[2632/15000], training loss: 0.0801
+[2640/15000], training loss: 0.0807
+16
+AVD_Home_010_1_traj9, ate: 350.0201612651194
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2648/15000], training loss: 0.0480
+[2656/15000], training loss: 0.0695
+[2664/15000], training loss: 0.0652
+[2672/15000], training loss: 0.0611
+[2680/15000], training loss: 0.0819
+16
+AVD_Home_010_1_traj9, ate: 361.9264887478066
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2688/15000], training loss: 0.0753
+[2696/15000], training loss: 0.0654
+[2704/15000], training loss: 0.0504
+[2712/15000], training loss: 0.0653
+[2720/15000], training loss: 0.1145
+16
+AVD_Home_010_1_traj9, ate: 354.1918135462375
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2728/15000], training loss: 0.0571
+[2736/15000], training loss: 0.0581
+[2744/15000], training loss: 0.0515
+[2752/15000], training loss: 0.0825
+[2760/15000], training loss: 0.0693
+16
+AVD_Home_010_1_traj9, ate: 362.37992006199227
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2768/15000], training loss: 0.0560
+[2776/15000], training loss: 0.0603
+[2784/15000], training loss: 0.0736
+[2792/15000], training loss: 0.0702
+[2800/15000], training loss: 0.0465
+16
+AVD_Home_010_1_traj9, ate: 352.0555725493851
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2808/15000], training loss: 0.0633
+[2816/15000], training loss: 0.0451
+[2824/15000], training loss: 0.0493
+[2832/15000], training loss: 0.0636
+[2840/15000], training loss: 0.0794
+16
+AVD_Home_010_1_traj9, ate: 351.1564335376194
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2848/15000], training loss: 0.0475
+[2856/15000], training loss: 0.0496
+[2864/15000], training loss: 0.0743
+[2872/15000], training loss: 0.0610
+[2880/15000], training loss: 0.0594
+16
+AVD_Home_010_1_traj9, ate: 360.8748669480812
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2888/15000], training loss: 0.0540
+[2896/15000], training loss: 0.0792
+[2904/15000], training loss: 0.0545
+[2912/15000], training loss: 0.0476
+[2920/15000], training loss: 0.0953
+16
+AVD_Home_010_1_traj9, ate: 353.0908030259227
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2928/15000], training loss: 0.0877
+[2936/15000], training loss: 0.0636
+[2944/15000], training loss: 0.0737
+[2952/15000], training loss: 0.0579
+[2960/15000], training loss: 0.0629
+16
+AVD_Home_010_1_traj9, ate: 360.6449174614031
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[2968/15000], training loss: 0.0654
+[2976/15000], training loss: 0.0777
+[2984/15000], training loss: 0.0504
+[2992/15000], training loss: 0.0592
+[3000/15000], training loss: 0.0543
+16
+AVD_Home_010_1_traj9, ate: 354.8889726709788
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3008/15000], training loss: 0.0515
+[3016/15000], training loss: 0.0448
+[3024/15000], training loss: 0.0460
+[3032/15000], training loss: 0.0469
+[3040/15000], training loss: 0.0604
+16
+AVD_Home_010_1_traj9, ate: 348.3673694495486
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3048/15000], training loss: 0.0460
+[3056/15000], training loss: 0.0507
+[3064/15000], training loss: 0.0640
+[3072/15000], training loss: 0.0750
+[3080/15000], training loss: 0.0674
+16
+AVD_Home_010_1_traj9, ate: 352.86149949528976
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3088/15000], training loss: 0.0965
+[3096/15000], training loss: 0.0529
+[3104/15000], training loss: 0.0573
+[3112/15000], training loss: 0.0561
+[3120/15000], training loss: 0.0595
+16
+AVD_Home_010_1_traj9, ate: 350.05268440915023
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3128/15000], training loss: 0.0466
+[3136/15000], training loss: 0.0396
+[3144/15000], training loss: 0.0547
+[3152/15000], training loss: 0.0686
+[3160/15000], training loss: 0.0604
+16
+AVD_Home_010_1_traj9, ate: 356.18448008468806
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3168/15000], training loss: 0.0513
+[3176/15000], training loss: 0.0417
+[3184/15000], training loss: 0.0912
+[3192/15000], training loss: 0.0522
+[3200/15000], training loss: 0.0549
+16
+AVD_Home_010_1_traj9, ate: 351.58371444146576
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3208/15000], training loss: 0.0434
+[3216/15000], training loss: 0.0751
+[3224/15000], training loss: 0.0651
+[3232/15000], training loss: 0.0610
+[3240/15000], training loss: 0.0531
+16
+AVD_Home_010_1_traj9, ate: 352.10320107046965
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3248/15000], training loss: 0.0497
+[3256/15000], training loss: 0.0424
+[3264/15000], training loss: 0.0664
+[3272/15000], training loss: 0.0688
+[3280/15000], training loss: 0.0423
+16
+AVD_Home_010_1_traj9, ate: 353.2072755946358
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3288/15000], training loss: 0.0435
+[3296/15000], training loss: 0.0643
+[3304/15000], training loss: 0.0544
+[3312/15000], training loss: 0.0581
+[3320/15000], training loss: 0.0559
+16
+AVD_Home_010_1_traj9, ate: 352.59322691427224
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3328/15000], training loss: 0.0564
+[3336/15000], training loss: 0.0498
+[3344/15000], training loss: 0.0712
+[3352/15000], training loss: 0.0648
+[3360/15000], training loss: 0.0711
+16
+AVD_Home_010_1_traj9, ate: 355.1114461830855
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3368/15000], training loss: 0.0688
+[3376/15000], training loss: 0.0490
+[3384/15000], training loss: 0.0479
+[3392/15000], training loss: 0.0635
+[3400/15000], training loss: 0.0518
+16
+AVD_Home_010_1_traj9, ate: 347.89920881880147
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3408/15000], training loss: 0.0468
+[3416/15000], training loss: 0.0507
+[3424/15000], training loss: 0.0537
+[3432/15000], training loss: 0.0607
+[3440/15000], training loss: 0.0770
+16
+AVD_Home_010_1_traj9, ate: 354.57719591583185
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3448/15000], training loss: 0.0797
+[3456/15000], training loss: 0.1101
+[3464/15000], training loss: 0.0621
+[3472/15000], training loss: 0.0657
+[3480/15000], training loss: 0.0461
+16
+AVD_Home_010_1_traj9, ate: 351.32034029562897
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3488/15000], training loss: 0.0549
+[3496/15000], training loss: 0.0770
+[3504/15000], training loss: 0.0598
+[3512/15000], training loss: 0.0418
+[3520/15000], training loss: 0.0479
+16
+AVD_Home_010_1_traj9, ate: 351.42716499545514
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3528/15000], training loss: 0.0556
+[3536/15000], training loss: 0.0494
+[3544/15000], training loss: 0.0629
+[3552/15000], training loss: 0.0532
+[3560/15000], training loss: 0.0617
+16
+AVD_Home_010_1_traj9, ate: 357.98261597108285
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3568/15000], training loss: 0.0502
+[3576/15000], training loss: 0.0521
+[3584/15000], training loss: 0.0534
+[3592/15000], training loss: 0.0545
+[3600/15000], training loss: 0.0593
+16
+AVD_Home_010_1_traj9, ate: 346.74170800380244
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3608/15000], training loss: 0.0565
+[3616/15000], training loss: 0.0484
+[3624/15000], training loss: 0.0610
+[3632/15000], training loss: 0.0554
+[3640/15000], training loss: 0.0750
+16
+AVD_Home_010_1_traj9, ate: 345.7414844692826
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3648/15000], training loss: 0.0558
+[3656/15000], training loss: 0.0646
+[3664/15000], training loss: 0.0547
+[3672/15000], training loss: 0.0486
+[3680/15000], training loss: 0.0617
+16
+AVD_Home_010_1_traj9, ate: 347.91001359580207
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3688/15000], training loss: 0.0469
+[3696/15000], training loss: 0.0678
+[3704/15000], training loss: 0.0657
+[3712/15000], training loss: 0.0660
+[3720/15000], training loss: 0.0510
+16
+AVD_Home_010_1_traj9, ate: 348.25478371352307
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3728/15000], training loss: 0.0499
+[3736/15000], training loss: 0.0536
+[3744/15000], training loss: 0.0583
+[3752/15000], training loss: 0.0461
+[3760/15000], training loss: 0.0553
+16
+AVD_Home_010_1_traj9, ate: 350.0932533022036
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3768/15000], training loss: 0.0426
+[3776/15000], training loss: 0.0407
+[3784/15000], training loss: 0.0646
+[3792/15000], training loss: 0.0479
+[3800/15000], training loss: 0.0456
+16
+AVD_Home_010_1_traj9, ate: 360.0883734403679
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3808/15000], training loss: 0.0511
+[3816/15000], training loss: 0.0576
+[3824/15000], training loss: 0.0556
+[3832/15000], training loss: 0.0440
+[3840/15000], training loss: 0.0725
+16
+AVD_Home_010_1_traj9, ate: 354.1733944827798
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3848/15000], training loss: 0.0610
+[3856/15000], training loss: 0.0553
+[3864/15000], training loss: 0.0527
+[3872/15000], training loss: 0.0791
+[3880/15000], training loss: 0.0699
+16
+AVD_Home_010_1_traj9, ate: 355.286538438127
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3888/15000], training loss: 0.0433
+[3896/15000], training loss: 0.0435
+[3904/15000], training loss: 0.0617
+[3912/15000], training loss: 0.0458
+[3920/15000], training loss: 0.0774
+16
+AVD_Home_010_1_traj9, ate: 354.54517602636093
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3928/15000], training loss: 0.0653
+[3936/15000], training loss: 0.0637
+[3944/15000], training loss: 0.0872
+[3952/15000], training loss: 0.0502
+[3960/15000], training loss: 0.0422
+16
+AVD_Home_010_1_traj9, ate: 349.7049690657736
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[3968/15000], training loss: 0.0714
+[3976/15000], training loss: 0.0960
+[3984/15000], training loss: 0.0531
+[3992/15000], training loss: 0.0589
+[4000/15000], training loss: 0.0639
+16
+AVD_Home_010_1_traj9, ate: 345.64689537048145
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4008/15000], training loss: 0.0452
+[4016/15000], training loss: 0.0561
+[4024/15000], training loss: 0.0525
+[4032/15000], training loss: 0.0622
+[4040/15000], training loss: 0.0597
+16
+AVD_Home_010_1_traj9, ate: 360.73790794691433
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4048/15000], training loss: 0.0453
+[4056/15000], training loss: 0.0600
+[4064/15000], training loss: 0.0507
+[4072/15000], training loss: 0.0640
+[4080/15000], training loss: 0.0419
+16
+AVD_Home_010_1_traj9, ate: 354.26178124862395
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4088/15000], training loss: 0.0609
+[4096/15000], training loss: 0.0452
+[4104/15000], training loss: 0.0596
+[4112/15000], training loss: 0.0569
+[4120/15000], training loss: 0.0889
+16
+AVD_Home_010_1_traj9, ate: 355.20075032603035
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4128/15000], training loss: 0.0390
+[4136/15000], training loss: 0.0544
+[4144/15000], training loss: 0.0549
+[4152/15000], training loss: 0.0691
+[4160/15000], training loss: 0.0462
+16
+AVD_Home_010_1_traj9, ate: 354.60712330867756
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4168/15000], training loss: 0.0429
+[4176/15000], training loss: 0.0535
+[4184/15000], training loss: 0.0539
+[4192/15000], training loss: 0.0384
+[4200/15000], training loss: 0.0577
+16
+AVD_Home_010_1_traj9, ate: 355.2613896249019
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4208/15000], training loss: 0.0624
+[4216/15000], training loss: 0.0512
+[4224/15000], training loss: 0.0603
+[4232/15000], training loss: 0.0658
+[4240/15000], training loss: 0.0443
+16
+AVD_Home_010_1_traj9, ate: 355.7259519226657
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4248/15000], training loss: 0.0692
+[4256/15000], training loss: 0.0689
+[4264/15000], training loss: 0.0771
+[4272/15000], training loss: 0.0844
+[4280/15000], training loss: 0.0963
+16
+AVD_Home_010_1_traj9, ate: 359.37500613021115
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4288/15000], training loss: 0.0522
+[4296/15000], training loss: 0.0623
+[4304/15000], training loss: 0.0571
+[4312/15000], training loss: 0.0752
+[4320/15000], training loss: 0.0716
+16
+AVD_Home_010_1_traj9, ate: 348.0258769349851
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4328/15000], training loss: 0.0416
+[4336/15000], training loss: 0.0445
+[4344/15000], training loss: 0.0441
+[4352/15000], training loss: 0.0591
+[4360/15000], training loss: 0.0461
+16
+AVD_Home_010_1_traj9, ate: 359.40148291425083
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4368/15000], training loss: 0.0586
+[4376/15000], training loss: 0.0618
+[4384/15000], training loss: 0.0572
+[4392/15000], training loss: 0.0505
+[4400/15000], training loss: 0.0579
+16
+AVD_Home_010_1_traj9, ate: 358.9605217932702
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4408/15000], training loss: 0.0644
+[4416/15000], training loss: 0.0591
+[4424/15000], training loss: 0.0520
+[4432/15000], training loss: 0.0607
+[4440/15000], training loss: 0.0671
+16
+AVD_Home_010_1_traj9, ate: 362.4221604682808
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4448/15000], training loss: 0.0579
+[4456/15000], training loss: 0.0534
+[4464/15000], training loss: 0.0720
+[4472/15000], training loss: 0.0573
+[4480/15000], training loss: 0.0646
+16
+AVD_Home_010_1_traj9, ate: 357.91948002455996
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4488/15000], training loss: 0.0643
+[4496/15000], training loss: 0.1097
+[4504/15000], training loss: 0.0702
+[4512/15000], training loss: 0.0537
+[4520/15000], training loss: 0.0458
+16
+AVD_Home_010_1_traj9, ate: 360.3645036207541
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4528/15000], training loss: 0.0432
+[4536/15000], training loss: 0.0434
+[4544/15000], training loss: 0.0549
+[4552/15000], training loss: 0.0409
+[4560/15000], training loss: 0.0610
+16
+AVD_Home_010_1_traj9, ate: 356.78465615339877
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4568/15000], training loss: 0.0443
+[4576/15000], training loss: 0.0572
+[4584/15000], training loss: 0.0748
+[4592/15000], training loss: 0.0534
+[4600/15000], training loss: 0.0542
+16
+AVD_Home_010_1_traj9, ate: 352.3741680044865
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4608/15000], training loss: 0.0621
+[4616/15000], training loss: 0.0441
+[4624/15000], training loss: 0.0510
+[4632/15000], training loss: 0.0638
+[4640/15000], training loss: 0.0601
+16
+AVD_Home_010_1_traj9, ate: 353.56468117458945
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4648/15000], training loss: 0.0675
+[4656/15000], training loss: 0.0560
+[4664/15000], training loss: 0.0755
+[4672/15000], training loss: 0.0516
+[4680/15000], training loss: 0.0594
+16
+AVD_Home_010_1_traj9, ate: 356.27527262627353
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4688/15000], training loss: 0.0672
+[4696/15000], training loss: 0.0666
+[4704/15000], training loss: 0.0574
+[4712/15000], training loss: 0.0403
+[4720/15000], training loss: 0.0424
+16
+AVD_Home_010_1_traj9, ate: 361.2892361079593
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4728/15000], training loss: 0.0643
+[4736/15000], training loss: 0.0829
+[4744/15000], training loss: 0.0521
+[4752/15000], training loss: 0.0509
+[4760/15000], training loss: 0.0715
+16
+AVD_Home_010_1_traj9, ate: 356.66291814405986
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4768/15000], training loss: 0.0553
+[4776/15000], training loss: 0.0375
+[4784/15000], training loss: 0.0736
+[4792/15000], training loss: 0.0612
+[4800/15000], training loss: 0.0511
+16
+AVD_Home_010_1_traj9, ate: 356.14424720814895
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4808/15000], training loss: 0.0505
+[4816/15000], training loss: 0.0625
+[4824/15000], training loss: 0.0873
+[4832/15000], training loss: 0.0437
+[4840/15000], training loss: 0.0572
+16
+AVD_Home_010_1_traj9, ate: 359.71026375924566
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4848/15000], training loss: 0.0669
+[4856/15000], training loss: 0.0509
+[4864/15000], training loss: 0.0399
+[4872/15000], training loss: 0.0523
+[4880/15000], training loss: 0.0594
+16
+AVD_Home_010_1_traj9, ate: 356.75100464308656
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4888/15000], training loss: 0.0512
+[4896/15000], training loss: 0.0389
+[4904/15000], training loss: 0.0610
+[4912/15000], training loss: 0.0490
+[4920/15000], training loss: 0.0491
+16
+AVD_Home_010_1_traj9, ate: 351.18798530114094
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4928/15000], training loss: 0.1005
+[4936/15000], training loss: 0.0469
+[4944/15000], training loss: 0.0826
+[4952/15000], training loss: 0.0420
+[4960/15000], training loss: 0.0469
+16
+AVD_Home_010_1_traj9, ate: 353.3638341884268
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[4968/15000], training loss: 0.0591
+[4976/15000], training loss: 0.0732
+[4984/15000], training loss: 0.0479
+[4992/15000], training loss: 0.0382
+[5000/15000], training loss: 0.0716
+16
+AVD_Home_010_1_traj9, ate: 355.3002517249115
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5008/15000], training loss: 0.0562
+[5016/15000], training loss: 0.0539
+[5024/15000], training loss: 0.0595
+[5032/15000], training loss: 0.0384
+[5040/15000], training loss: 0.0572
+16
+AVD_Home_010_1_traj9, ate: 353.790664333788
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5048/15000], training loss: 0.0621
+[5056/15000], training loss: 0.0671
+[5064/15000], training loss: 0.0521
+[5072/15000], training loss: 0.0406
+[5080/15000], training loss: 0.0464
+16
+AVD_Home_010_1_traj9, ate: 353.13914849604834
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5088/15000], training loss: 0.0481
+[5096/15000], training loss: 0.0513
+[5104/15000], training loss: 0.0443
+[5112/15000], training loss: 0.0727
+[5120/15000], training loss: 0.0650
+16
+AVD_Home_010_1_traj9, ate: 353.4455389219029
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5128/15000], training loss: 0.0604
+[5136/15000], training loss: 0.0761
+[5144/15000], training loss: 0.0496
+[5152/15000], training loss: 0.0468
+[5160/15000], training loss: 0.0473
+16
+AVD_Home_010_1_traj9, ate: 351.8836703608304
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5168/15000], training loss: 0.0534
+[5176/15000], training loss: 0.0534
+[5184/15000], training loss: 0.0690
+[5192/15000], training loss: 0.0791
+[5200/15000], training loss: 0.0721
+16
+AVD_Home_010_1_traj9, ate: 352.3774081434903
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5208/15000], training loss: 0.0832
+[5216/15000], training loss: 0.0449
+[5224/15000], training loss: 0.0763
+[5232/15000], training loss: 0.0392
+[5240/15000], training loss: 0.0583
+16
+AVD_Home_010_1_traj9, ate: 355.91376822886645
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5248/15000], training loss: 0.0436
+[5256/15000], training loss: 0.0480
+[5264/15000], training loss: 0.0556
+[5272/15000], training loss: 0.0585
+[5280/15000], training loss: 0.0658
+16
+AVD_Home_010_1_traj9, ate: 353.6333979006812
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5288/15000], training loss: 0.0577
+[5296/15000], training loss: 0.0562
+[5304/15000], training loss: 0.0945
+[5312/15000], training loss: 0.0383
+[5320/15000], training loss: 0.0617
+16
+AVD_Home_010_1_traj9, ate: 353.72450884931624
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5328/15000], training loss: 0.1026
+[5336/15000], training loss: 0.0764
+[5344/15000], training loss: 0.0470
+[5352/15000], training loss: 0.0797
+[5360/15000], training loss: 0.0640
+16
+AVD_Home_010_1_traj9, ate: 354.25067461861926
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5368/15000], training loss: 0.0706
+[5376/15000], training loss: 0.0468
+[5384/15000], training loss: 0.0709
+[5392/15000], training loss: 0.0364
+[5400/15000], training loss: 0.0570
+16
+AVD_Home_010_1_traj9, ate: 361.2544527429502
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5408/15000], training loss: 0.0581
+[5416/15000], training loss: 0.0540
+[5424/15000], training loss: 0.0484
+[5432/15000], training loss: 0.0355
+[5440/15000], training loss: 0.0474
+16
+AVD_Home_010_1_traj9, ate: 357.1627889287603
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5448/15000], training loss: 0.0882
+[5456/15000], training loss: 0.0773
+[5464/15000], training loss: 0.0653
+[5472/15000], training loss: 0.0614
+[5480/15000], training loss: 0.0819
+16
+AVD_Home_010_1_traj9, ate: 356.6155208267994
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5488/15000], training loss: 0.0539
+[5496/15000], training loss: 0.0494
+[5504/15000], training loss: 0.0553
+[5512/15000], training loss: 0.0448
+[5520/15000], training loss: 0.0597
+16
+AVD_Home_010_1_traj9, ate: 354.1459518557174
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5528/15000], training loss: 0.0697
+[5536/15000], training loss: 0.0632
+[5544/15000], training loss: 0.0393
+[5552/15000], training loss: 0.0548
+[5560/15000], training loss: 0.0607
+16
+AVD_Home_010_1_traj9, ate: 357.68595871169623
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5568/15000], training loss: 0.0458
+[5576/15000], training loss: 0.0595
+[5584/15000], training loss: 0.0585
+[5592/15000], training loss: 0.0494
+[5600/15000], training loss: 0.0460
+16
+AVD_Home_010_1_traj9, ate: 353.7051618482332
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5608/15000], training loss: 0.0463
+[5616/15000], training loss: 0.0363
+[5624/15000], training loss: 0.0689
+[5632/15000], training loss: 0.0605
+[5640/15000], training loss: 0.0443
+16
+AVD_Home_010_1_traj9, ate: 355.4409995942595
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5648/15000], training loss: 0.0419
+[5656/15000], training loss: 0.0583
+[5664/15000], training loss: 0.0754
+[5672/15000], training loss: 0.0600
+[5680/15000], training loss: 0.0371
+16
+AVD_Home_010_1_traj9, ate: 357.82957268250686
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5688/15000], training loss: 0.0548
+[5696/15000], training loss: 0.0741
+[5704/15000], training loss: 0.0464
+[5712/15000], training loss: 0.0643
+[5720/15000], training loss: 0.0546
+16
+AVD_Home_010_1_traj9, ate: 353.9627031113742
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5728/15000], training loss: 0.0508
+[5736/15000], training loss: 0.0452
+[5744/15000], training loss: 0.0602
+[5752/15000], training loss: 0.0698
+[5760/15000], training loss: 0.0424
+16
+AVD_Home_010_1_traj9, ate: 355.68839309262506
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5768/15000], training loss: 0.0800
+[5776/15000], training loss: 0.0587
+[5784/15000], training loss: 0.0523
+[5792/15000], training loss: 0.0442
+[5800/15000], training loss: 0.0672
+16
+AVD_Home_010_1_traj9, ate: 352.48722067851554
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5808/15000], training loss: 0.0509
+[5816/15000], training loss: 0.0636
+[5824/15000], training loss: 0.0344
+[5832/15000], training loss: 0.0463
+[5840/15000], training loss: 0.0494
+16
+AVD_Home_010_1_traj9, ate: 352.90032378395813
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5848/15000], training loss: 0.0518
+[5856/15000], training loss: 0.0485
+[5864/15000], training loss: 0.0882
+[5872/15000], training loss: 0.0569
+[5880/15000], training loss: 0.0403
+16
+AVD_Home_010_1_traj9, ate: 354.73281698638317
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5888/15000], training loss: 0.0396
+[5896/15000], training loss: 0.0479
+[5904/15000], training loss: 0.0433
+[5912/15000], training loss: 0.0376
+[5920/15000], training loss: 0.0525
+16
+AVD_Home_010_1_traj9, ate: 354.17715587082535
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5928/15000], training loss: 0.0675
+[5936/15000], training loss: 0.0739
+[5944/15000], training loss: 0.0472
+[5952/15000], training loss: 0.0669
+[5960/15000], training loss: 0.0801
+16
+AVD_Home_010_1_traj9, ate: 358.0504650043312
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[5968/15000], training loss: 0.0530
+[5976/15000], training loss: 0.0606
+[5984/15000], training loss: 0.0462
+[5992/15000], training loss: 0.0452
+[6000/15000], training loss: 0.0426
+16
+AVD_Home_010_1_traj9, ate: 357.09534031139594
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6008/15000], training loss: 0.0450
+[6016/15000], training loss: 0.0527
+[6024/15000], training loss: 0.0562
+[6032/15000], training loss: 0.0597
+[6040/15000], training loss: 0.0487
+16
+AVD_Home_010_1_traj9, ate: 353.65354406822314
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6048/15000], training loss: 0.0808
+[6056/15000], training loss: 0.0394
+[6064/15000], training loss: 0.0548
+[6072/15000], training loss: 0.0617
+[6080/15000], training loss: 0.0560
+16
+AVD_Home_010_1_traj9, ate: 358.9565824140615
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6088/15000], training loss: 0.0431
+[6096/15000], training loss: 0.0398
+[6104/15000], training loss: 0.0609
+[6112/15000], training loss: 0.0506
+[6120/15000], training loss: 0.0687
+16
+AVD_Home_010_1_traj9, ate: 353.45888398776754
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6128/15000], training loss: 0.0854
+[6136/15000], training loss: 0.0515
+[6144/15000], training loss: 0.0578
+[6152/15000], training loss: 0.0390
+[6160/15000], training loss: 0.0636
+16
+AVD_Home_010_1_traj9, ate: 356.28612292769657
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6168/15000], training loss: 0.0380
+[6176/15000], training loss: 0.0454
+[6184/15000], training loss: 0.0408
+[6192/15000], training loss: 0.0435
+[6200/15000], training loss: 0.0440
+16
+AVD_Home_010_1_traj9, ate: 354.1302393408453
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6208/15000], training loss: 0.0657
+[6216/15000], training loss: 0.0359
+[6224/15000], training loss: 0.0373
+[6232/15000], training loss: 0.0533
+[6240/15000], training loss: 0.0441
+16
+AVD_Home_010_1_traj9, ate: 355.2140432014658
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6248/15000], training loss: 0.0548
+[6256/15000], training loss: 0.0579
+[6264/15000], training loss: 0.0360
+[6272/15000], training loss: 0.0426
+[6280/15000], training loss: 0.0668
+16
+AVD_Home_010_1_traj9, ate: 351.0864998604951
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6288/15000], training loss: 0.0801
+[6296/15000], training loss: 0.0486
+[6304/15000], training loss: 0.0375
+[6312/15000], training loss: 0.0591
+[6320/15000], training loss: 0.0487
+16
+AVD_Home_010_1_traj9, ate: 357.8698784088719
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6328/15000], training loss: 0.0379
+[6336/15000], training loss: 0.0438
+[6344/15000], training loss: 0.0572
+[6352/15000], training loss: 0.0578
+[6360/15000], training loss: 0.0357
+16
+AVD_Home_010_1_traj9, ate: 355.0129427722733
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6368/15000], training loss: 0.0444
+[6376/15000], training loss: 0.0478
+[6384/15000], training loss: 0.0445
+[6392/15000], training loss: 0.0566
+[6400/15000], training loss: 0.0405
+16
+AVD_Home_010_1_traj9, ate: 355.4623580542179
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6408/15000], training loss: 0.0486
+[6416/15000], training loss: 0.0542
+[6424/15000], training loss: 0.0477
+[6432/15000], training loss: 0.0486
+[6440/15000], training loss: 0.0497
+16
+AVD_Home_010_1_traj9, ate: 354.34171643679576
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6448/15000], training loss: 0.0338
+[6456/15000], training loss: 0.0427
+[6464/15000], training loss: 0.0732
+[6472/15000], training loss: 0.0535
+[6480/15000], training loss: 0.0616
+16
+AVD_Home_010_1_traj9, ate: 360.6544841547129
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6488/15000], training loss: 0.0462
+[6496/15000], training loss: 0.0385
+[6504/15000], training loss: 0.0609
+[6512/15000], training loss: 0.0758
+[6520/15000], training loss: 0.0626
+16
+AVD_Home_010_1_traj9, ate: 355.0324548599975
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6528/15000], training loss: 0.0578
+[6536/15000], training loss: 0.0414
+[6544/15000], training loss: 0.1031
+[6552/15000], training loss: 0.0359
+[6560/15000], training loss: 0.0505
+16
+AVD_Home_010_1_traj9, ate: 357.474418220099
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6568/15000], training loss: 0.0849
+[6576/15000], training loss: 0.0581
+[6584/15000], training loss: 0.0461
+[6592/15000], training loss: 0.0654
+[6600/15000], training loss: 0.0611
+16
+AVD_Home_010_1_traj9, ate: 357.1241996727379
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6608/15000], training loss: 0.0419
+[6616/15000], training loss: 0.0590
+[6624/15000], training loss: 0.0391
+[6632/15000], training loss: 0.0545
+[6640/15000], training loss: 0.0347
+16
+AVD_Home_010_1_traj9, ate: 356.27290471548724
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6648/15000], training loss: 0.0804
+[6656/15000], training loss: 0.0422
+[6664/15000], training loss: 0.0343
+[6672/15000], training loss: 0.0475
+[6680/15000], training loss: 0.0453
+16
+AVD_Home_010_1_traj9, ate: 351.40905112166706
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6688/15000], training loss: 0.0553
+[6696/15000], training loss: 0.0358
+[6704/15000], training loss: 0.0557
+[6712/15000], training loss: 0.0545
+[6720/15000], training loss: 0.0749
+16
+AVD_Home_010_1_traj9, ate: 354.89995247400697
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6728/15000], training loss: 0.0618
+[6736/15000], training loss: 0.0573
+[6744/15000], training loss: 0.0549
+[6752/15000], training loss: 0.0439
+[6760/15000], training loss: 0.0438
+16
+AVD_Home_010_1_traj9, ate: 359.8247158203922
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6768/15000], training loss: 0.0548
+[6776/15000], training loss: 0.0773
+[6784/15000], training loss: 0.0488
+[6792/15000], training loss: 0.0370
+[6800/15000], training loss: 0.0550
+16
+AVD_Home_010_1_traj9, ate: 357.0971761718809
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6808/15000], training loss: 0.0528
+[6816/15000], training loss: 0.0350
+[6824/15000], training loss: 0.0416
+[6832/15000], training loss: 0.0530
+[6840/15000], training loss: 0.0390
+16
+AVD_Home_010_1_traj9, ate: 352.1614334883199
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6848/15000], training loss: 0.0440
+[6856/15000], training loss: 0.0481
+[6864/15000], training loss: 0.0671
+[6872/15000], training loss: 0.0424
+[6880/15000], training loss: 0.0565
+16
+AVD_Home_010_1_traj9, ate: 351.80703157505565
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6888/15000], training loss: 0.0426
+[6896/15000], training loss: 0.0446
+[6904/15000], training loss: 0.0385
+[6912/15000], training loss: 0.0444
+[6920/15000], training loss: 0.0725
+16
+AVD_Home_010_1_traj9, ate: 352.81224198553815
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6928/15000], training loss: 0.0588
+[6936/15000], training loss: 0.0439
+[6944/15000], training loss: 0.0363
+[6952/15000], training loss: 0.0497
+[6960/15000], training loss: 0.0479
+16
+AVD_Home_010_1_traj9, ate: 348.892480887115
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[6968/15000], training loss: 0.0517
+[6976/15000], training loss: 0.0476
+[6984/15000], training loss: 0.0452
+[6992/15000], training loss: 0.0445
+[7000/15000], training loss: 0.0783
+16
+AVD_Home_010_1_traj9, ate: 354.9909755097726
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7008/15000], training loss: 0.0472
+[7016/15000], training loss: 0.0366
+[7024/15000], training loss: 0.0427
+[7032/15000], training loss: 0.0358
+[7040/15000], training loss: 0.0401
+16
+AVD_Home_010_1_traj9, ate: 355.39229478786825
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7048/15000], training loss: 0.0605
+[7056/15000], training loss: 0.0442
+[7064/15000], training loss: 0.0584
+[7072/15000], training loss: 0.0480
+[7080/15000], training loss: 0.0386
+16
+AVD_Home_010_1_traj9, ate: 356.00421788506674
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7088/15000], training loss: 0.0734
+[7096/15000], training loss: 0.0506
+[7104/15000], training loss: 0.0823
+[7112/15000], training loss: 0.0604
+[7120/15000], training loss: 0.0434
+16
+AVD_Home_010_1_traj9, ate: 354.7009503961018
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7128/15000], training loss: 0.0448
+[7136/15000], training loss: 0.0867
+[7144/15000], training loss: 0.0640
+[7152/15000], training loss: 0.0379
+[7160/15000], training loss: 0.0501
+16
+AVD_Home_010_1_traj9, ate: 355.9480578012729
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7168/15000], training loss: 0.0486
+[7176/15000], training loss: 0.0423
+[7184/15000], training loss: 0.0436
+[7192/15000], training loss: 0.0590
+[7200/15000], training loss: 0.0334
+16
+AVD_Home_010_1_traj9, ate: 353.38642817657666
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7208/15000], training loss: 0.0444
+[7216/15000], training loss: 0.0460
+[7224/15000], training loss: 0.0646
+[7232/15000], training loss: 0.0511
+[7240/15000], training loss: 0.0428
+16
+AVD_Home_010_1_traj9, ate: 352.02957257134545
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7248/15000], training loss: 0.0420
+[7256/15000], training loss: 0.0425
+[7264/15000], training loss: 0.0391
+[7272/15000], training loss: 0.0476
+[7280/15000], training loss: 0.0687
+16
+AVD_Home_010_1_traj9, ate: 355.5848879599416
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7288/15000], training loss: 0.0681
+[7296/15000], training loss: 0.0366
+[7304/15000], training loss: 0.0558
+[7312/15000], training loss: 0.0658
+[7320/15000], training loss: 0.0879
+16
+AVD_Home_010_1_traj9, ate: 352.8057695038833
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7328/15000], training loss: 0.0590
+[7336/15000], training loss: 0.0586
+[7344/15000], training loss: 0.0472
+[7352/15000], training loss: 0.0451
+[7360/15000], training loss: 0.0451
+16
+AVD_Home_010_1_traj9, ate: 356.25383796027575
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7368/15000], training loss: 0.0564
+[7376/15000], training loss: 0.0575
+[7384/15000], training loss: 0.0483
+[7392/15000], training loss: 0.0452
+[7400/15000], training loss: 0.0470
+16
+AVD_Home_010_1_traj9, ate: 356.5094704224385
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7408/15000], training loss: 0.0359
+[7416/15000], training loss: 0.0352
+[7424/15000], training loss: 0.0486
+[7432/15000], training loss: 0.0576
+[7440/15000], training loss: 0.0700
+16
+AVD_Home_010_1_traj9, ate: 350.6361432042296
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7448/15000], training loss: 0.0652
+[7456/15000], training loss: 0.0455
+[7464/15000], training loss: 0.0490
+[7472/15000], training loss: 0.0555
+[7480/15000], training loss: 0.0398
+16
+AVD_Home_010_1_traj9, ate: 351.0305818017051
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7488/15000], training loss: 0.0597
+[7496/15000], training loss: 0.0419
+[7504/15000], training loss: 0.0612
+[7512/15000], training loss: 0.0408
+[7520/15000], training loss: 0.0536
+16
+AVD_Home_010_1_traj9, ate: 352.29688454426224
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7528/15000], training loss: 0.0650
+[7536/15000], training loss: 0.0527
+[7544/15000], training loss: 0.0698
+[7552/15000], training loss: 0.0477
+[7560/15000], training loss: 0.0444
+16
+AVD_Home_010_1_traj9, ate: 353.1752736852658
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7568/15000], training loss: 0.0543
+[7576/15000], training loss: 0.0574
+[7584/15000], training loss: 0.0563
+[7592/15000], training loss: 0.0390
+[7600/15000], training loss: 0.0474
+16
+AVD_Home_010_1_traj9, ate: 357.1855531640194
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7608/15000], training loss: 0.0453
+[7616/15000], training loss: 0.0466
+[7624/15000], training loss: 0.0541
+[7632/15000], training loss: 0.0594
+[7640/15000], training loss: 0.0826
+16
+AVD_Home_010_1_traj9, ate: 354.86141855480423
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7648/15000], training loss: 0.0471
+[7656/15000], training loss: 0.0454
+[7664/15000], training loss: 0.0541
+[7672/15000], training loss: 0.0545
+[7680/15000], training loss: 0.0405
+16
+AVD_Home_010_1_traj9, ate: 356.8759782673071
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7688/15000], training loss: 0.0738
+[7696/15000], training loss: 0.0576
+[7704/15000], training loss: 0.0665
+[7712/15000], training loss: 0.0483
+[7720/15000], training loss: 0.0430
+16
+AVD_Home_010_1_traj9, ate: 355.4832161818978
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7728/15000], training loss: 0.0584
+[7736/15000], training loss: 0.0415
+[7744/15000], training loss: 0.0350
+[7752/15000], training loss: 0.0435
+[7760/15000], training loss: 0.0498
+16
+AVD_Home_010_1_traj9, ate: 352.5041400892282
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7768/15000], training loss: 0.0804
+[7776/15000], training loss: 0.0487
+[7784/15000], training loss: 0.0371
+[7792/15000], training loss: 0.0729
+[7800/15000], training loss: 0.0398
+16
+AVD_Home_010_1_traj9, ate: 355.2184385712108
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7808/15000], training loss: 0.0443
+[7816/15000], training loss: 0.0570
+[7824/15000], training loss: 0.0434
+[7832/15000], training loss: 0.0376
+[7840/15000], training loss: 0.0513
+16
+AVD_Home_010_1_traj9, ate: 357.2241890296175
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7848/15000], training loss: 0.0341
+[7856/15000], training loss: 0.0663
+[7864/15000], training loss: 0.0654
+[7872/15000], training loss: 0.0559
+[7880/15000], training loss: 0.0361
+16
+AVD_Home_010_1_traj9, ate: 356.9507330833197
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7888/15000], training loss: 0.0599
+[7896/15000], training loss: 0.0673
+[7904/15000], training loss: 0.0606
+[7912/15000], training loss: 0.0365
+[7920/15000], training loss: 0.0963
+16
+AVD_Home_010_1_traj9, ate: 357.7179397444822
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7928/15000], training loss: 0.0412
+[7936/15000], training loss: 0.0629
+[7944/15000], training loss: 0.0508
+[7952/15000], training loss: 0.0548
+[7960/15000], training loss: 0.0540
+16
+AVD_Home_010_1_traj9, ate: 354.59189923170317
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[7968/15000], training loss: 0.0828
+[7976/15000], training loss: 0.0394
+[7984/15000], training loss: 0.0379
+[7992/15000], training loss: 0.0618
+[8000/15000], training loss: 0.0395
+16
+AVD_Home_010_1_traj9, ate: 355.5581701820025
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8008/15000], training loss: 0.0584
+[8016/15000], training loss: 0.0504
+[8024/15000], training loss: 0.0384
+[8032/15000], training loss: 0.0593
+[8040/15000], training loss: 0.0410
+16
+AVD_Home_010_1_traj9, ate: 354.6914971556693
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8048/15000], training loss: 0.0475
+[8056/15000], training loss: 0.0421
+[8064/15000], training loss: 0.0585
+[8072/15000], training loss: 0.0408
+[8080/15000], training loss: 0.0511
+16
+AVD_Home_010_1_traj9, ate: 354.6405486572586
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8088/15000], training loss: 0.0544
+[8096/15000], training loss: 0.0416
+[8104/15000], training loss: 0.0722
+[8112/15000], training loss: 0.0406
+[8120/15000], training loss: 0.0844
+16
+AVD_Home_010_1_traj9, ate: 355.51027760044286
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8128/15000], training loss: 0.0689
+[8136/15000], training loss: 0.0561
+[8144/15000], training loss: 0.0454
+[8152/15000], training loss: 0.0469
+[8160/15000], training loss: 0.0606
+16
+AVD_Home_010_1_traj9, ate: 354.9575572226847
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8168/15000], training loss: 0.1079
+[8176/15000], training loss: 0.0432
+[8184/15000], training loss: 0.0604
+[8192/15000], training loss: 0.0943
+[8200/15000], training loss: 0.0380
+16
+AVD_Home_010_1_traj9, ate: 357.76822732208393
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8208/15000], training loss: 0.0501
+[8216/15000], training loss: 0.0388
+[8224/15000], training loss: 0.0398
+[8232/15000], training loss: 0.0461
+[8240/15000], training loss: 0.0559
+16
+AVD_Home_010_1_traj9, ate: 355.694397139452
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8248/15000], training loss: 0.0414
+[8256/15000], training loss: 0.0375
+[8264/15000], training loss: 0.0391
+[8272/15000], training loss: 0.0465
+[8280/15000], training loss: 0.0531
+16
+AVD_Home_010_1_traj9, ate: 353.45957803371556
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8288/15000], training loss: 0.0446
+[8296/15000], training loss: 0.0528
+[8304/15000], training loss: 0.0362
+[8312/15000], training loss: 0.0594
+[8320/15000], training loss: 0.0632
+16
+AVD_Home_010_1_traj9, ate: 352.92392189024184
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8328/15000], training loss: 0.0946
+[8336/15000], training loss: 0.0562
+[8344/15000], training loss: 0.0753
+[8352/15000], training loss: 0.0397
+[8360/15000], training loss: 0.0405
+16
+AVD_Home_010_1_traj9, ate: 349.3455771027959
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8368/15000], training loss: 0.0483
+[8376/15000], training loss: 0.0415
+[8384/15000], training loss: 0.0791
+[8392/15000], training loss: 0.0472
+[8400/15000], training loss: 0.0366
+16
+AVD_Home_010_1_traj9, ate: 355.6282731808019
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8408/15000], training loss: 0.0601
+[8416/15000], training loss: 0.0555
+[8424/15000], training loss: 0.0545
+[8432/15000], training loss: 0.0458
+[8440/15000], training loss: 0.0509
+16
+AVD_Home_010_1_traj9, ate: 354.66356242432084
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8448/15000], training loss: 0.0535
+[8456/15000], training loss: 0.0394
+[8464/15000], training loss: 0.0408
+[8472/15000], training loss: 0.0524
+[8480/15000], training loss: 0.0481
+16
+AVD_Home_010_1_traj9, ate: 355.7834315505072
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8488/15000], training loss: 0.0681
+[8496/15000], training loss: 0.0354
+[8504/15000], training loss: 0.0594
+[8512/15000], training loss: 0.0402
+[8520/15000], training loss: 0.0530
+16
+AVD_Home_010_1_traj9, ate: 356.62335504511054
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8528/15000], training loss: 0.0459
+[8536/15000], training loss: 0.0369
+[8544/15000], training loss: 0.0405
+[8552/15000], training loss: 0.0544
+[8560/15000], training loss: 0.0559
+16
+AVD_Home_010_1_traj9, ate: 353.606316322939
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8568/15000], training loss: 0.0398
+[8576/15000], training loss: 0.0862
+[8584/15000], training loss: 0.0361
+[8592/15000], training loss: 0.0461
+[8600/15000], training loss: 0.0416
+16
+AVD_Home_010_1_traj9, ate: 356.199540167922
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8608/15000], training loss: 0.0349
+[8616/15000], training loss: 0.0395
+[8624/15000], training loss: 0.0347
+[8632/15000], training loss: 0.0436
+[8640/15000], training loss: 0.0431
+16
+AVD_Home_010_1_traj9, ate: 357.00431473021325
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8648/15000], training loss: 0.0439
+[8656/15000], training loss: 0.0391
+[8664/15000], training loss: 0.0602
+[8672/15000], training loss: 0.0382
+[8680/15000], training loss: 0.0595
+16
+AVD_Home_010_1_traj9, ate: 355.6736275359317
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8688/15000], training loss: 0.0504
+[8696/15000], training loss: 0.0405
+[8704/15000], training loss: 0.0485
+[8712/15000], training loss: 0.0533
+[8720/15000], training loss: 0.0416
+16
+AVD_Home_010_1_traj9, ate: 355.0682522779094
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8728/15000], training loss: 0.0414
+[8736/15000], training loss: 0.0428
+[8744/15000], training loss: 0.0367
+[8752/15000], training loss: 0.0465
+[8760/15000], training loss: 0.0603
+16
+AVD_Home_010_1_traj9, ate: 355.50376807397805
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8768/15000], training loss: 0.0637
+[8776/15000], training loss: 0.0368
+[8784/15000], training loss: 0.0434
+[8792/15000], training loss: 0.0340
+[8800/15000], training loss: 0.0598
+16
+AVD_Home_010_1_traj9, ate: 360.25251309244277
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8808/15000], training loss: 0.0625
+[8816/15000], training loss: 0.0413
+[8824/15000], training loss: 0.0556
+[8832/15000], training loss: 0.0403
+[8840/15000], training loss: 0.0498
+16
+AVD_Home_010_1_traj9, ate: 356.3597783513313
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8848/15000], training loss: 0.0589
+[8856/15000], training loss: 0.0367
+[8864/15000], training loss: 0.0450
+[8872/15000], training loss: 0.0371
+[8880/15000], training loss: 0.0435
+16
+AVD_Home_010_1_traj9, ate: 358.8090990377015
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8888/15000], training loss: 0.0537
+[8896/15000], training loss: 0.0798
+[8904/15000], training loss: 0.0638
+[8912/15000], training loss: 0.0756
+[8920/15000], training loss: 0.0679
+16
+AVD_Home_010_1_traj9, ate: 356.5694142314933
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8928/15000], training loss: 0.0631
+[8936/15000], training loss: 0.0340
+[8944/15000], training loss: 0.0406
+[8952/15000], training loss: 0.0632
+[8960/15000], training loss: 0.0422
+16
+AVD_Home_010_1_traj9, ate: 359.5389165598879
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[8968/15000], training loss: 0.0432
+[8976/15000], training loss: 0.0507
+[8984/15000], training loss: 0.0377
+[8992/15000], training loss: 0.0409
+[9000/15000], training loss: 0.0574
+16
+AVD_Home_010_1_traj9, ate: 355.86597626064673
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9008/15000], training loss: 0.0379
+[9016/15000], training loss: 0.0462
+[9024/15000], training loss: 0.0414
+[9032/15000], training loss: 0.0459
+[9040/15000], training loss: 0.0451
+16
+AVD_Home_010_1_traj9, ate: 355.9566625956148
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9048/15000], training loss: 0.0578
+[9056/15000], training loss: 0.0684
+[9064/15000], training loss: 0.0426
+[9072/15000], training loss: 0.0435
+[9080/15000], training loss: 0.0442
+16
+AVD_Home_010_1_traj9, ate: 355.085054271455
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9088/15000], training loss: 0.0349
+[9096/15000], training loss: 0.0377
+[9104/15000], training loss: 0.0416
+[9112/15000], training loss: 0.0477
+[9120/15000], training loss: 0.0593
+16
+AVD_Home_010_1_traj9, ate: 355.492570845558
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9128/15000], training loss: 0.0544
+[9136/15000], training loss: 0.0551
+[9144/15000], training loss: 0.0386
+[9152/15000], training loss: 0.0612
+[9160/15000], training loss: 0.0363
+16
+AVD_Home_010_1_traj9, ate: 354.21195771114634
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9168/15000], training loss: 0.0392
+[9176/15000], training loss: 0.0595
+[9184/15000], training loss: 0.0422
+[9192/15000], training loss: 0.0398
+[9200/15000], training loss: 0.0342
+16
+AVD_Home_010_1_traj9, ate: 357.0936991507689
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9208/15000], training loss: 0.0521
+[9216/15000], training loss: 0.0423
+[9224/15000], training loss: 0.0429
+[9232/15000], training loss: 0.0518
+[9240/15000], training loss: 0.0411
+16
+AVD_Home_010_1_traj9, ate: 355.03116280771417
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9248/15000], training loss: 0.0942
+[9256/15000], training loss: 0.0717
+[9264/15000], training loss: 0.0467
+[9272/15000], training loss: 0.0346
+[9280/15000], training loss: 0.0415
+16
+AVD_Home_010_1_traj9, ate: 355.93569024921936
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9288/15000], training loss: 0.0425
+[9296/15000], training loss: 0.0396
+[9304/15000], training loss: 0.0358
+[9312/15000], training loss: 0.0410
+[9320/15000], training loss: 0.0377
+16
+AVD_Home_010_1_traj9, ate: 354.3399463161036
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9328/15000], training loss: 0.0624
+[9336/15000], training loss: 0.0609
+[9344/15000], training loss: 0.0408
+[9352/15000], training loss: 0.0372
+[9360/15000], training loss: 0.0393
+16
+AVD_Home_010_1_traj9, ate: 354.84215015673374
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9368/15000], training loss: 0.0369
+[9376/15000], training loss: 0.0343
+[9384/15000], training loss: 0.0584
+[9392/15000], training loss: 0.0359
+[9400/15000], training loss: 0.0594
+16
+AVD_Home_010_1_traj9, ate: 356.7946460032399
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9408/15000], training loss: 0.0658
+[9416/15000], training loss: 0.0543
+[9424/15000], training loss: 0.0360
+[9432/15000], training loss: 0.0550
+[9440/15000], training loss: 0.0350
+16
+AVD_Home_010_1_traj9, ate: 357.1791683477515
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9448/15000], training loss: 0.0406
+[9456/15000], training loss: 0.0368
+[9464/15000], training loss: 0.0404
+[9472/15000], training loss: 0.0523
+[9480/15000], training loss: 0.0621
+16
+AVD_Home_010_1_traj9, ate: 354.8178645870241
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9488/15000], training loss: 0.0391
+[9496/15000], training loss: 0.0359
+[9504/15000], training loss: 0.0345
+[9512/15000], training loss: 0.0408
+[9520/15000], training loss: 0.0414
+16
+AVD_Home_010_1_traj9, ate: 354.4540379608496
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9528/15000], training loss: 0.0415
+[9536/15000], training loss: 0.0473
+[9544/15000], training loss: 0.0349
+[9552/15000], training loss: 0.0580
+[9560/15000], training loss: 0.0581
+16
+AVD_Home_010_1_traj9, ate: 356.94519689645693
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9568/15000], training loss: 0.0539
+[9576/15000], training loss: 0.0646
+[9584/15000], training loss: 0.0397
+[9592/15000], training loss: 0.0502
+[9600/15000], training loss: 0.0592
+16
+AVD_Home_010_1_traj9, ate: 357.1827365831891
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9608/15000], training loss: 0.0438
+[9616/15000], training loss: 0.0451
+[9624/15000], training loss: 0.0458
+[9632/15000], training loss: 0.0411
+[9640/15000], training loss: 0.0507
+16
+AVD_Home_010_1_traj9, ate: 353.6514211138804
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9648/15000], training loss: 0.0566
+[9656/15000], training loss: 0.0350
+[9664/15000], training loss: 0.0468
+[9672/15000], training loss: 0.0625
+[9680/15000], training loss: 0.0350
+16
+AVD_Home_010_1_traj9, ate: 355.39768191704263
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9688/15000], training loss: 0.0503
+[9696/15000], training loss: 0.0381
+[9704/15000], training loss: 0.0635
+[9712/15000], training loss: 0.0363
+[9720/15000], training loss: 0.0384
+16
+AVD_Home_010_1_traj9, ate: 357.0256740077363
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9728/15000], training loss: 0.0352
+[9736/15000], training loss: 0.0375
+[9744/15000], training loss: 0.0577
+[9752/15000], training loss: 0.0372
+[9760/15000], training loss: 0.0400
+16
+AVD_Home_010_1_traj9, ate: 356.51519077270615
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9768/15000], training loss: 0.0487
+[9776/15000], training loss: 0.0527
+[9784/15000], training loss: 0.0458
+[9792/15000], training loss: 0.0346
+[9800/15000], training loss: 0.0603
+16
+AVD_Home_010_1_traj9, ate: 356.63405140793856
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9808/15000], training loss: 0.0450
+[9816/15000], training loss: 0.0344
+[9824/15000], training loss: 0.0364
+[9832/15000], training loss: 0.0475
+[9840/15000], training loss: 0.0369
+16
+AVD_Home_010_1_traj9, ate: 356.0925452739048
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9848/15000], training loss: 0.0568
+[9856/15000], training loss: 0.0771
+[9864/15000], training loss: 0.0367
+[9872/15000], training loss: 0.0497
+[9880/15000], training loss: 0.0402
+16
+AVD_Home_010_1_traj9, ate: 355.5535619161616
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9888/15000], training loss: 0.0320
+[9896/15000], training loss: 0.0409
+[9904/15000], training loss: 0.0535
+[9912/15000], training loss: 0.0373
+[9920/15000], training loss: 0.0611
+16
+AVD_Home_010_1_traj9, ate: 355.9743410360928
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9928/15000], training loss: 0.0356
+[9936/15000], training loss: 0.0377
+[9944/15000], training loss: 0.0311
+[9952/15000], training loss: 0.0373
+[9960/15000], training loss: 0.0437
+16
+AVD_Home_010_1_traj9, ate: 354.9900338337747
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[9968/15000], training loss: 0.0380
+[9976/15000], training loss: 0.0557
+[9984/15000], training loss: 0.0416
+[9992/15000], training loss: 0.0502
+[10000/15000], training loss: 0.0643
+16
+AVD_Home_010_1_traj9, ate: 358.3993834953784
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10008/15000], training loss: 0.0395
+[10016/15000], training loss: 0.0395
+[10024/15000], training loss: 0.0366
+[10032/15000], training loss: 0.0389
+[10040/15000], training loss: 0.0595
+16
+AVD_Home_010_1_traj9, ate: 355.10598034491585
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10048/15000], training loss: 0.0452
+[10056/15000], training loss: 0.0520
+[10064/15000], training loss: 0.0413
+[10072/15000], training loss: 0.0332
+[10080/15000], training loss: 0.0968
+16
+AVD_Home_010_1_traj9, ate: 355.1035749420879
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10088/15000], training loss: 0.0524
+[10096/15000], training loss: 0.0589
+[10104/15000], training loss: 0.0358
+[10112/15000], training loss: 0.0462
+[10120/15000], training loss: 0.0321
+16
+AVD_Home_010_1_traj9, ate: 355.44864392201805
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10128/15000], training loss: 0.0477
+[10136/15000], training loss: 0.0300
+[10144/15000], training loss: 0.0454
+[10152/15000], training loss: 0.0386
+[10160/15000], training loss: 0.0369
+16
+AVD_Home_010_1_traj9, ate: 354.47004360343607
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10168/15000], training loss: 0.0840
+[10176/15000], training loss: 0.0743
+[10184/15000], training loss: 0.0414
+[10192/15000], training loss: 0.0439
+[10200/15000], training loss: 0.0348
+16
+AVD_Home_010_1_traj9, ate: 355.36624575869183
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10208/15000], training loss: 0.0509
+[10216/15000], training loss: 0.0333
+[10224/15000], training loss: 0.0709
+[10232/15000], training loss: 0.0995
+[10240/15000], training loss: 0.0567
+16
+AVD_Home_010_1_traj9, ate: 351.6820337694886
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10248/15000], training loss: 0.0445
+[10256/15000], training loss: 0.0458
+[10264/15000], training loss: 0.0413
+[10272/15000], training loss: 0.0586
+[10280/15000], training loss: 0.0426
+16
+AVD_Home_010_1_traj9, ate: 355.8954406458171
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10288/15000], training loss: 0.0515
+[10296/15000], training loss: 0.0474
+[10304/15000], training loss: 0.0517
+[10312/15000], training loss: 0.0355
+[10320/15000], training loss: 0.0505
+16
+AVD_Home_010_1_traj9, ate: 357.8486097337041
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10328/15000], training loss: 0.0646
+[10336/15000], training loss: 0.0639
+[10344/15000], training loss: 0.0440
+[10352/15000], training loss: 0.0482
+[10360/15000], training loss: 0.0440
+16
+AVD_Home_010_1_traj9, ate: 356.62566419950963
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10368/15000], training loss: 0.0597
+[10376/15000], training loss: 0.0404
+[10384/15000], training loss: 0.0383
+[10392/15000], training loss: 0.0383
+[10400/15000], training loss: 0.0332
+16
+AVD_Home_010_1_traj9, ate: 354.97336398093483
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10408/15000], training loss: 0.0507
+[10416/15000], training loss: 0.0391
+[10424/15000], training loss: 0.0412
+[10432/15000], training loss: 0.0333
+[10440/15000], training loss: 0.0539
+16
+AVD_Home_010_1_traj9, ate: 356.8199909991094
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10448/15000], training loss: 0.0397
+[10456/15000], training loss: 0.0397
+[10464/15000], training loss: 0.0440
+[10472/15000], training loss: 0.0377
+[10480/15000], training loss: 0.0478
+16
+AVD_Home_010_1_traj9, ate: 356.9845751099229
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10488/15000], training loss: 0.0366
+[10496/15000], training loss: 0.0357
+[10504/15000], training loss: 0.0475
+[10512/15000], training loss: 0.0371
+[10520/15000], training loss: 0.0505
+16
+AVD_Home_010_1_traj9, ate: 354.3144262709121
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10528/15000], training loss: 0.0329
+[10536/15000], training loss: 0.0393
+[10544/15000], training loss: 0.0513
+[10552/15000], training loss: 0.0798
+[10560/15000], training loss: 0.0472
+16
+AVD_Home_010_1_traj9, ate: 354.9179551630967
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10568/15000], training loss: 0.0353
+[10576/15000], training loss: 0.0469
+[10584/15000], training loss: 0.0560
+[10592/15000], training loss: 0.0364
+[10600/15000], training loss: 0.0404
+16
+AVD_Home_010_1_traj9, ate: 355.4077128854915
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10608/15000], training loss: 0.0637
+[10616/15000], training loss: 0.0393
+[10624/15000], training loss: 0.0353
+[10632/15000], training loss: 0.0422
+[10640/15000], training loss: 0.0395
+16
+AVD_Home_010_1_traj9, ate: 355.99989083826813
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10648/15000], training loss: 0.0746
+[10656/15000], training loss: 0.0603
+[10664/15000], training loss: 0.0457
+[10672/15000], training loss: 0.0382
+[10680/15000], training loss: 0.0361
+16
+AVD_Home_010_1_traj9, ate: 355.9226736131194
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10688/15000], training loss: 0.0456
+[10696/15000], training loss: 0.0397
+[10704/15000], training loss: 0.0351
+[10712/15000], training loss: 0.0331
+[10720/15000], training loss: 0.0378
+16
+AVD_Home_010_1_traj9, ate: 356.18255462431574
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10728/15000], training loss: 0.0346
+[10736/15000], training loss: 0.0492
+[10744/15000], training loss: 0.0649
+[10752/15000], training loss: 0.0663
+[10760/15000], training loss: 0.0507
+16
+AVD_Home_010_1_traj9, ate: 354.5435628262832
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10768/15000], training loss: 0.0314
+[10776/15000], training loss: 0.0436
+[10784/15000], training loss: 0.0405
+[10792/15000], training loss: 0.0599
+[10800/15000], training loss: 0.0345
+16
+AVD_Home_010_1_traj9, ate: 356.7894619295781
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10808/15000], training loss: 0.0578
+[10816/15000], training loss: 0.0625
+[10824/15000], training loss: 0.0331
+[10832/15000], training loss: 0.0510
+[10840/15000], training loss: 0.0686
+16
+AVD_Home_010_1_traj9, ate: 357.4688265323044
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10848/15000], training loss: 0.0524
+[10856/15000], training loss: 0.0357
+[10864/15000], training loss: 0.0478
+[10872/15000], training loss: 0.0309
+[10880/15000], training loss: 0.0393
+16
+AVD_Home_010_1_traj9, ate: 357.7992172814172
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10888/15000], training loss: 0.0759
+[10896/15000], training loss: 0.0458
+[10904/15000], training loss: 0.0553
+[10912/15000], training loss: 0.0406
+[10920/15000], training loss: 0.0452
+16
+AVD_Home_010_1_traj9, ate: 354.8326066024414
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10928/15000], training loss: 0.0428
+[10936/15000], training loss: 0.0501
+[10944/15000], training loss: 0.0557
+[10952/15000], training loss: 0.0355
+[10960/15000], training loss: 0.0365
+16
+AVD_Home_010_1_traj9, ate: 356.2758133640162
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[10968/15000], training loss: 0.0381
+[10976/15000], training loss: 0.0587
+[10984/15000], training loss: 0.0333
+[10992/15000], training loss: 0.0629
+[11000/15000], training loss: 0.0590
+16
+AVD_Home_010_1_traj9, ate: 356.8603415993246
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11008/15000], training loss: 0.0578
+[11016/15000], training loss: 0.0380
+[11024/15000], training loss: 0.0588
+[11032/15000], training loss: 0.0435
+[11040/15000], training loss: 0.0552
+16
+AVD_Home_010_1_traj9, ate: 355.85062670804234
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11048/15000], training loss: 0.0426
+[11056/15000], training loss: 0.0412
+[11064/15000], training loss: 0.0654
+[11072/15000], training loss: 0.0533
+[11080/15000], training loss: 0.0376
+16
+AVD_Home_010_1_traj9, ate: 357.06643191109805
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11088/15000], training loss: 0.0363
+[11096/15000], training loss: 0.0499
+[11104/15000], training loss: 0.0451
+[11112/15000], training loss: 0.0727
+[11120/15000], training loss: 0.0519
+16
+AVD_Home_010_1_traj9, ate: 357.27470289353096
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11128/15000], training loss: 0.0434
+[11136/15000], training loss: 0.0680
+[11144/15000], training loss: 0.0643
+[11152/15000], training loss: 0.0338
+[11160/15000], training loss: 0.0618
+16
+AVD_Home_010_1_traj9, ate: 354.5836823536235
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11168/15000], training loss: 0.0659
+[11176/15000], training loss: 0.0322
+[11184/15000], training loss: 0.0439
+[11192/15000], training loss: 0.0768
+[11200/15000], training loss: 0.0710
+16
+AVD_Home_010_1_traj9, ate: 357.635039283975
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11208/15000], training loss: 0.0570
+[11216/15000], training loss: 0.0444
+[11224/15000], training loss: 0.0451
+[11232/15000], training loss: 0.0454
+[11240/15000], training loss: 0.0388
+16
+AVD_Home_010_1_traj9, ate: 361.2891272944577
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11248/15000], training loss: 0.0552
+[11256/15000], training loss: 0.0381
+[11264/15000], training loss: 0.0440
+[11272/15000], training loss: 0.0675
+[11280/15000], training loss: 0.0533
+16
+AVD_Home_010_1_traj9, ate: 358.00126131917926
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11288/15000], training loss: 0.0346
+[11296/15000], training loss: 0.0441
+[11304/15000], training loss: 0.0487
+[11312/15000], training loss: 0.0376
+[11320/15000], training loss: 0.0389
+16
+AVD_Home_010_1_traj9, ate: 356.94186029340983
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11328/15000], training loss: 0.0436
+[11336/15000], training loss: 0.0443
+[11344/15000], training loss: 0.0438
+[11352/15000], training loss: 0.0435
+[11360/15000], training loss: 0.0458
+16
+AVD_Home_010_1_traj9, ate: 356.33617961311046
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11368/15000], training loss: 0.0579
+[11376/15000], training loss: 0.0490
+[11384/15000], training loss: 0.0368
+[11392/15000], training loss: 0.0349
+[11400/15000], training loss: 0.0420
+16
+AVD_Home_010_1_traj9, ate: 357.08449998393644
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11408/15000], training loss: 0.0355
+[11416/15000], training loss: 0.0468
+[11424/15000], training loss: 0.0529
+[11432/15000], training loss: 0.0445
+[11440/15000], training loss: 0.0388
+16
+AVD_Home_010_1_traj9, ate: 358.07704704805076
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11448/15000], training loss: 0.0352
+[11456/15000], training loss: 0.0564
+[11464/15000], training loss: 0.0465
+[11472/15000], training loss: 0.0572
+[11480/15000], training loss: 0.0347
+16
+AVD_Home_010_1_traj9, ate: 356.6938266998803
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11488/15000], training loss: 0.0390
+[11496/15000], training loss: 0.0486
+[11504/15000], training loss: 0.0446
+[11512/15000], training loss: 0.0705
+[11520/15000], training loss: 0.0518
+16
+AVD_Home_010_1_traj9, ate: 358.50273509538624
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11528/15000], training loss: 0.0487
+[11536/15000], training loss: 0.0583
+[11544/15000], training loss: 0.0428
+[11552/15000], training loss: 0.0427
+[11560/15000], training loss: 0.0379
+16
+AVD_Home_010_1_traj9, ate: 355.35259944487836
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11568/15000], training loss: 0.0439
+[11576/15000], training loss: 0.0442
+[11584/15000], training loss: 0.0372
+[11592/15000], training loss: 0.0507
+[11600/15000], training loss: 0.0354
+16
+AVD_Home_010_1_traj9, ate: 353.9459979572974
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11608/15000], training loss: 0.0514
+[11616/15000], training loss: 0.0519
+[11624/15000], training loss: 0.0406
+[11632/15000], training loss: 0.0352
+[11640/15000], training loss: 0.0360
+16
+AVD_Home_010_1_traj9, ate: 357.38487984882505
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11648/15000], training loss: 0.0540
+[11656/15000], training loss: 0.0505
+[11664/15000], training loss: 0.0417
+[11672/15000], training loss: 0.0453
+[11680/15000], training loss: 0.0340
+16
+AVD_Home_010_1_traj9, ate: 356.0852385584459
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11688/15000], training loss: 0.0394
+[11696/15000], training loss: 0.0564
+[11704/15000], training loss: 0.0320
+[11712/15000], training loss: 0.0507
+[11720/15000], training loss: 0.0354
+16
+AVD_Home_010_1_traj9, ate: 352.4403390258366
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11728/15000], training loss: 0.0494
+[11736/15000], training loss: 0.0348
+[11744/15000], training loss: 0.0616
+[11752/15000], training loss: 0.0335
+[11760/15000], training loss: 0.0650
+16
+AVD_Home_010_1_traj9, ate: 357.0439013057121
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11768/15000], training loss: 0.0535
+[11776/15000], training loss: 0.0555
+[11784/15000], training loss: 0.0393
+[11792/15000], training loss: 0.0502
+[11800/15000], training loss: 0.0391
+16
+AVD_Home_010_1_traj9, ate: 358.9867714457599
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11808/15000], training loss: 0.0460
+[11816/15000], training loss: 0.0357
+[11824/15000], training loss: 0.0632
+[11832/15000], training loss: 0.0589
+[11840/15000], training loss: 0.0624
+16
+AVD_Home_010_1_traj9, ate: 357.7758819585603
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11848/15000], training loss: 0.0415
+[11856/15000], training loss: 0.0396
+[11864/15000], training loss: 0.0661
+[11872/15000], training loss: 0.0386
+[11880/15000], training loss: 0.0678
+16
+AVD_Home_010_1_traj9, ate: 356.07561579254576
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11888/15000], training loss: 0.0362
+[11896/15000], training loss: 0.0559
+[11904/15000], training loss: 0.0329
+[11912/15000], training loss: 0.0533
+[11920/15000], training loss: 0.0433
+16
+AVD_Home_010_1_traj9, ate: 356.04167679592683
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11928/15000], training loss: 0.0682
+[11936/15000], training loss: 0.0525
+[11944/15000], training loss: 0.0375
+[11952/15000], training loss: 0.0411
+[11960/15000], training loss: 0.0580
+16
+AVD_Home_010_1_traj9, ate: 356.7527241196447
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[11968/15000], training loss: 0.0679
+[11976/15000], training loss: 0.0747
+[11984/15000], training loss: 0.0795
+[11992/15000], training loss: 0.0397
+[12000/15000], training loss: 0.0599
+16
+AVD_Home_010_1_traj9, ate: 355.5408894245978
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12008/15000], training loss: 0.0520
+[12016/15000], training loss: 0.0515
+[12024/15000], training loss: 0.0718
+[12032/15000], training loss: 0.0345
+[12040/15000], training loss: 0.0523
+16
+AVD_Home_010_1_traj9, ate: 355.2970308637405
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12048/15000], training loss: 0.0639
+[12056/15000], training loss: 0.0349
+[12064/15000], training loss: 0.0570
+[12072/15000], training loss: 0.0412
+[12080/15000], training loss: 0.0368
+16
+AVD_Home_010_1_traj9, ate: 357.7403068942153
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12088/15000], training loss: 0.0516
+[12096/15000], training loss: 0.0572
+[12104/15000], training loss: 0.0547
+[12112/15000], training loss: 0.0568
+[12120/15000], training loss: 0.0375
+16
+AVD_Home_010_1_traj9, ate: 356.8815122315725
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12128/15000], training loss: 0.0624
+[12136/15000], training loss: 0.0380
+[12144/15000], training loss: 0.0411
+[12152/15000], training loss: 0.0501
+[12160/15000], training loss: 0.0502
+16
+AVD_Home_010_1_traj9, ate: 356.8889845433647
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12168/15000], training loss: 0.0511
+[12176/15000], training loss: 0.0414
+[12184/15000], training loss: 0.0779
+[12192/15000], training loss: 0.0567
+[12200/15000], training loss: 0.0539
+16
+AVD_Home_010_1_traj9, ate: 355.7517265722551
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12208/15000], training loss: 0.0446
+[12216/15000], training loss: 0.0366
+[12224/15000], training loss: 0.0427
+[12232/15000], training loss: 0.0409
+[12240/15000], training loss: 0.0390
+16
+AVD_Home_010_1_traj9, ate: 357.2121658133585
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12248/15000], training loss: 0.0486
+[12256/15000], training loss: 0.0426
+[12264/15000], training loss: 0.0404
+[12272/15000], training loss: 0.0387
+[12280/15000], training loss: 0.0479
+16
+AVD_Home_010_1_traj9, ate: 356.78767488222303
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12288/15000], training loss: 0.0368
+[12296/15000], training loss: 0.0762
+[12304/15000], training loss: 0.0410
+[12312/15000], training loss: 0.0380
+[12320/15000], training loss: 0.0393
+16
+AVD_Home_010_1_traj9, ate: 356.75680433829274
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12328/15000], training loss: 0.0503
+[12336/15000], training loss: 0.0324
+[12344/15000], training loss: 0.0560
+[12352/15000], training loss: 0.0519
+[12360/15000], training loss: 0.0353
+16
+AVD_Home_010_1_traj9, ate: 354.8518681579395
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12368/15000], training loss: 0.0322
+[12376/15000], training loss: 0.0456
+[12384/15000], training loss: 0.0419
+[12392/15000], training loss: 0.0477
+[12400/15000], training loss: 0.0447
+16
+AVD_Home_010_1_traj9, ate: 356.63694078762177
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12408/15000], training loss: 0.0423
+[12416/15000], training loss: 0.0426
+[12424/15000], training loss: 0.0705
+[12432/15000], training loss: 0.0427
+[12440/15000], training loss: 0.0363
+16
+AVD_Home_010_1_traj9, ate: 353.6505053992892
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12448/15000], training loss: 0.0472
+[12456/15000], training loss: 0.0338
+[12464/15000], training loss: 0.0558
+[12472/15000], training loss: 0.0625
+[12480/15000], training loss: 0.0601
+16
+AVD_Home_010_1_traj9, ate: 356.2034647538819
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12488/15000], training loss: 0.0426
+[12496/15000], training loss: 0.0452
+[12504/15000], training loss: 0.0341
+[12512/15000], training loss: 0.0328
+[12520/15000], training loss: 0.0440
+16
+AVD_Home_010_1_traj9, ate: 356.20556198771993
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12528/15000], training loss: 0.0477
+[12536/15000], training loss: 0.0504
+[12544/15000], training loss: 0.0613
+[12552/15000], training loss: 0.0362
+[12560/15000], training loss: 0.0451
+16
+AVD_Home_010_1_traj9, ate: 356.865265643785
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12568/15000], training loss: 0.0466
+[12576/15000], training loss: 0.0533
+[12584/15000], training loss: 0.0401
+[12592/15000], training loss: 0.0408
+[12600/15000], training loss: 0.0345
+16
+AVD_Home_010_1_traj9, ate: 355.6809920652942
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12608/15000], training loss: 0.0382
+[12616/15000], training loss: 0.0398
+[12624/15000], training loss: 0.0406
+[12632/15000], training loss: 0.0400
+[12640/15000], training loss: 0.0726
+16
+AVD_Home_010_1_traj9, ate: 355.89055060283704
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12648/15000], training loss: 0.0384
+[12656/15000], training loss: 0.0352
+[12664/15000], training loss: 0.0437
+[12672/15000], training loss: 0.0357
+[12680/15000], training loss: 0.0598
+16
+AVD_Home_010_1_traj9, ate: 355.6771122665695
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12688/15000], training loss: 0.0509
+[12696/15000], training loss: 0.0619
+[12704/15000], training loss: 0.0350
+[12712/15000], training loss: 0.0385
+[12720/15000], training loss: 0.0403
+16
+AVD_Home_010_1_traj9, ate: 357.1591017889322
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12728/15000], training loss: 0.0493
+[12736/15000], training loss: 0.0404
+[12744/15000], training loss: 0.0411
+[12752/15000], training loss: 0.0394
+[12760/15000], training loss: 0.0407
+16
+AVD_Home_010_1_traj9, ate: 356.63918444341425
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12768/15000], training loss: 0.0338
+[12776/15000], training loss: 0.0378
+[12784/15000], training loss: 0.0374
+[12792/15000], training loss: 0.0697
+[12800/15000], training loss: 0.0426
+16
+AVD_Home_010_1_traj9, ate: 356.4685510995868
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12808/15000], training loss: 0.0326
+[12816/15000], training loss: 0.0400
+[12824/15000], training loss: 0.0424
+[12832/15000], training loss: 0.0785
+[12840/15000], training loss: 0.0339
+16
+AVD_Home_010_1_traj9, ate: 357.8431574084865
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12848/15000], training loss: 0.0417
+[12856/15000], training loss: 0.0465
+[12864/15000], training loss: 0.0332
+[12872/15000], training loss: 0.0477
+[12880/15000], training loss: 0.0402
+16
+AVD_Home_010_1_traj9, ate: 355.75340583621676
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12888/15000], training loss: 0.0582
+[12896/15000], training loss: 0.0601
+[12904/15000], training loss: 0.0529
+[12912/15000], training loss: 0.0648
+[12920/15000], training loss: 0.0903
+16
+AVD_Home_010_1_traj9, ate: 356.4436710210454
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12928/15000], training loss: 0.0397
+[12936/15000], training loss: 0.0617
+[12944/15000], training loss: 0.0430
+[12952/15000], training loss: 0.0396
+[12960/15000], training loss: 0.0599
+16
+AVD_Home_010_1_traj9, ate: 356.91086288770225
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[12968/15000], training loss: 0.0521
+[12976/15000], training loss: 0.0368
+[12984/15000], training loss: 0.0482
+[12992/15000], training loss: 0.0353
+[13000/15000], training loss: 0.0421
+16
+AVD_Home_010_1_traj9, ate: 356.2046453439955
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13008/15000], training loss: 0.0411
+[13016/15000], training loss: 0.0376
+[13024/15000], training loss: 0.0308
+[13032/15000], training loss: 0.0513
+[13040/15000], training loss: 0.0399
+16
+AVD_Home_010_1_traj9, ate: 355.04171903390824
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13048/15000], training loss: 0.0373
+[13056/15000], training loss: 0.0607
+[13064/15000], training loss: 0.0394
+[13072/15000], training loss: 0.0333
+[13080/15000], training loss: 0.0558
+16
+AVD_Home_010_1_traj9, ate: 356.8685558288733
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13088/15000], training loss: 0.0427
+[13096/15000], training loss: 0.0480
+[13104/15000], training loss: 0.0406
+[13112/15000], training loss: 0.0456
+[13120/15000], training loss: 0.0358
+16
+AVD_Home_010_1_traj9, ate: 356.5145010687964
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13128/15000], training loss: 0.0401
+[13136/15000], training loss: 0.0542
+[13144/15000], training loss: 0.0462
+[13152/15000], training loss: 0.0365
+[13160/15000], training loss: 0.0503
+16
+AVD_Home_010_1_traj9, ate: 357.3331389871551
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13168/15000], training loss: 0.0709
+[13176/15000], training loss: 0.0415
+[13184/15000], training loss: 0.0317
+[13192/15000], training loss: 0.0443
+[13200/15000], training loss: 0.0616
+16
+AVD_Home_010_1_traj9, ate: 355.65707556319677
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13208/15000], training loss: 0.0593
+[13216/15000], training loss: 0.0608
+[13224/15000], training loss: 0.0487
+[13232/15000], training loss: 0.0389
+[13240/15000], training loss: 0.0454
+16
+AVD_Home_010_1_traj9, ate: 357.49777103906376
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13248/15000], training loss: 0.0364
+[13256/15000], training loss: 0.0553
+[13264/15000], training loss: 0.0713
+[13272/15000], training loss: 0.0593
+[13280/15000], training loss: 0.0379
+16
+AVD_Home_010_1_traj9, ate: 356.77900573870426
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13288/15000], training loss: 0.0377
+[13296/15000], training loss: 0.0439
+[13304/15000], training loss: 0.0597
+[13312/15000], training loss: 0.0315
+[13320/15000], training loss: 0.0385
+16
+AVD_Home_010_1_traj9, ate: 354.72771372500927
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13328/15000], training loss: 0.0706
+[13336/15000], training loss: 0.0429
+[13344/15000], training loss: 0.0835
+[13352/15000], training loss: 0.0567
+[13360/15000], training loss: 0.0333
+16
+AVD_Home_010_1_traj9, ate: 356.1825909518256
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13368/15000], training loss: 0.0359
+[13376/15000], training loss: 0.0401
+[13384/15000], training loss: 0.0480
+[13392/15000], training loss: 0.0356
+[13400/15000], training loss: 0.0622
+16
+AVD_Home_010_1_traj9, ate: 355.1010907464488
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13408/15000], training loss: 0.0512
+[13416/15000], training loss: 0.0347
+[13424/15000], training loss: 0.0535
+[13432/15000], training loss: 0.0319
+[13440/15000], training loss: 0.0495
+16
+AVD_Home_010_1_traj9, ate: 357.9268903077612
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13448/15000], training loss: 0.0661
+[13456/15000], training loss: 0.0487
+[13464/15000], training loss: 0.0486
+[13472/15000], training loss: 0.0459
+[13480/15000], training loss: 0.0320
+16
+AVD_Home_010_1_traj9, ate: 354.96755331341114
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13488/15000], training loss: 0.0425
+[13496/15000], training loss: 0.0355
+[13504/15000], training loss: 0.0363
+[13512/15000], training loss: 0.0417
+[13520/15000], training loss: 0.0386
+16
+AVD_Home_010_1_traj9, ate: 356.8667913795954
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13528/15000], training loss: 0.0318
+[13536/15000], training loss: 0.0336
+[13544/15000], training loss: 0.0411
+[13552/15000], training loss: 0.0343
+[13560/15000], training loss: 0.0334
+16
+AVD_Home_010_1_traj9, ate: 355.35155267526
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13568/15000], training loss: 0.0525
+[13576/15000], training loss: 0.0412
+[13584/15000], training loss: 0.0408
+[13592/15000], training loss: 0.0444
+[13600/15000], training loss: 0.0466
+16
+AVD_Home_010_1_traj9, ate: 356.03906768230337
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13608/15000], training loss: 0.0437
+[13616/15000], training loss: 0.0620
+[13624/15000], training loss: 0.0391
+[13632/15000], training loss: 0.0695
+[13640/15000], training loss: 0.0644
+16
+AVD_Home_010_1_traj9, ate: 357.7158811633381
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13648/15000], training loss: 0.0476
+[13656/15000], training loss: 0.0410
+[13664/15000], training loss: 0.0599
+[13672/15000], training loss: 0.0661
+[13680/15000], training loss: 0.0371
+16
+AVD_Home_010_1_traj9, ate: 357.11917463239104
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13688/15000], training loss: 0.0505
+[13696/15000], training loss: 0.0457
+[13704/15000], training loss: 0.0376
+[13712/15000], training loss: 0.0692
+[13720/15000], training loss: 0.0341
+16
+AVD_Home_010_1_traj9, ate: 356.88013526875005
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13728/15000], training loss: 0.0462
+[13736/15000], training loss: 0.0518
+[13744/15000], training loss: 0.0366
+[13752/15000], training loss: 0.0415
+[13760/15000], training loss: 0.0533
+16
+AVD_Home_010_1_traj9, ate: 355.65842232412933
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13768/15000], training loss: 0.0525
+[13776/15000], training loss: 0.0380
+[13784/15000], training loss: 0.0386
+[13792/15000], training loss: 0.0560
+[13800/15000], training loss: 0.0681
+16
+AVD_Home_010_1_traj9, ate: 357.38630591043494
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13808/15000], training loss: 0.0644
+[13816/15000], training loss: 0.0362
+[13824/15000], training loss: 0.0448
+[13832/15000], training loss: 0.0387
+[13840/15000], training loss: 0.0662
+16
+AVD_Home_010_1_traj9, ate: 356.6652075974377
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13848/15000], training loss: 0.0498
+[13856/15000], training loss: 0.0337
+[13864/15000], training loss: 0.0374
+[13872/15000], training loss: 0.0491
+[13880/15000], training loss: 0.0382
+16
+AVD_Home_010_1_traj9, ate: 355.70613837190723
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13888/15000], training loss: 0.0347
+[13896/15000], training loss: 0.0408
+[13904/15000], training loss: 0.0373
+[13912/15000], training loss: 0.0370
+[13920/15000], training loss: 0.0505
+16
+AVD_Home_010_1_traj9, ate: 357.00397660723075
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13928/15000], training loss: 0.0426
+[13936/15000], training loss: 0.0519
+[13944/15000], training loss: 0.0563
+[13952/15000], training loss: 0.0683
+[13960/15000], training loss: 0.0297
+16
+AVD_Home_010_1_traj9, ate: 353.97353066144467
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[13968/15000], training loss: 0.0481
+[13976/15000], training loss: 0.0421
+[13984/15000], training loss: 0.0645
+[13992/15000], training loss: 0.0449
+[14000/15000], training loss: 0.0381
+16
+AVD_Home_010_1_traj9, ate: 355.5889269289226
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14008/15000], training loss: 0.0719
+[14016/15000], training loss: 0.0360
+[14024/15000], training loss: 0.0527
+[14032/15000], training loss: 0.0661
+[14040/15000], training loss: 0.0359
+16
+AVD_Home_010_1_traj9, ate: 356.8920455101173
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14048/15000], training loss: 0.0403
+[14056/15000], training loss: 0.0549
+[14064/15000], training loss: 0.0352
+[14072/15000], training loss: 0.0453
+[14080/15000], training loss: 0.0557
+16
+AVD_Home_010_1_traj9, ate: 356.33374458008916
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14088/15000], training loss: 0.0443
+[14096/15000], training loss: 0.0494
+[14104/15000], training loss: 0.0482
+[14112/15000], training loss: 0.0368
+[14120/15000], training loss: 0.0490
+16
+AVD_Home_010_1_traj9, ate: 357.9812494651079
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14128/15000], training loss: 0.0411
+[14136/15000], training loss: 0.0547
+[14144/15000], training loss: 0.0608
+[14152/15000], training loss: 0.0391
+[14160/15000], training loss: 0.0567
+16
+AVD_Home_010_1_traj9, ate: 355.80912576914614
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14168/15000], training loss: 0.0469
+[14176/15000], training loss: 0.0323
+[14184/15000], training loss: 0.0489
+[14192/15000], training loss: 0.0340
+[14200/15000], training loss: 0.0323
+16
+AVD_Home_010_1_traj9, ate: 355.49568193359363
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14208/15000], training loss: 0.0588
+[14216/15000], training loss: 0.0517
+[14224/15000], training loss: 0.0325
+[14232/15000], training loss: 0.0353
+[14240/15000], training loss: 0.0391
+16
+AVD_Home_010_1_traj9, ate: 356.1352187059098
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14248/15000], training loss: 0.0344
+[14256/15000], training loss: 0.0347
+[14264/15000], training loss: 0.0387
+[14272/15000], training loss: 0.0857
+[14280/15000], training loss: 0.0369
+16
+AVD_Home_010_1_traj9, ate: 356.6807939359869
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14288/15000], training loss: 0.0505
+[14296/15000], training loss: 0.0894
+[14304/15000], training loss: 0.0351
+[14312/15000], training loss: 0.0441
+[14320/15000], training loss: 0.0462
+16
+AVD_Home_010_1_traj9, ate: 356.1717310679919
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14328/15000], training loss: 0.0355
+[14336/15000], training loss: 0.0608
+[14344/15000], training loss: 0.0506
+[14352/15000], training loss: 0.0431
+[14360/15000], training loss: 0.0424
+16
+AVD_Home_010_1_traj9, ate: 356.9947888435623
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14368/15000], training loss: 0.0378
+[14376/15000], training loss: 0.0349
+[14384/15000], training loss: 0.0578
+[14392/15000], training loss: 0.0365
+[14400/15000], training loss: 0.0514
+16
+AVD_Home_010_1_traj9, ate: 354.26863945093635
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14408/15000], training loss: 0.0333
+[14416/15000], training loss: 0.0420
+[14424/15000], training loss: 0.0362
+[14432/15000], training loss: 0.0621
+[14440/15000], training loss: 0.0365
+16
+AVD_Home_010_1_traj9, ate: 356.8113288196681
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14448/15000], training loss: 0.0352
+[14456/15000], training loss: 0.0384
+[14464/15000], training loss: 0.0318
+[14472/15000], training loss: 0.0609
+[14480/15000], training loss: 0.0633
+16
+AVD_Home_010_1_traj9, ate: 356.3349357113724
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14488/15000], training loss: 0.0558
+[14496/15000], training loss: 0.0377
+[14504/15000], training loss: 0.0404
+[14512/15000], training loss: 0.0311
+[14520/15000], training loss: 0.0376
+16
+AVD_Home_010_1_traj9, ate: 357.9959091960765
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14528/15000], training loss: 0.0695
+[14536/15000], training loss: 0.0472
+[14544/15000], training loss: 0.0404
+[14552/15000], training loss: 0.0585
+[14560/15000], training loss: 0.0326
+16
+AVD_Home_010_1_traj9, ate: 356.659262155839
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14568/15000], training loss: 0.0537
+[14576/15000], training loss: 0.0357
+[14584/15000], training loss: 0.0339
+[14592/15000], training loss: 0.0505
+[14600/15000], training loss: 0.0317
+16
+AVD_Home_010_1_traj9, ate: 354.67261705278077
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14608/15000], training loss: 0.0363
+[14616/15000], training loss: 0.0342
+[14624/15000], training loss: 0.0593
+[14632/15000], training loss: 0.0405
+[14640/15000], training loss: 0.0729
+16
+AVD_Home_010_1_traj9, ate: 357.1431113732094
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14648/15000], training loss: 0.0438
+[14656/15000], training loss: 0.0376
+[14664/15000], training loss: 0.0394
+[14672/15000], training loss: 0.0439
+[14680/15000], training loss: 0.0679
+16
+AVD_Home_010_1_traj9, ate: 356.7448936598181
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14688/15000], training loss: 0.0323
+[14696/15000], training loss: 0.0411
+[14704/15000], training loss: 0.0568
+[14712/15000], training loss: 0.0336
+[14720/15000], training loss: 0.0436
+16
+AVD_Home_010_1_traj9, ate: 357.4369432879244
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14728/15000], training loss: 0.0566
+[14736/15000], training loss: 0.0326
+[14744/15000], training loss: 0.0370
+[14752/15000], training loss: 0.0401
+[14760/15000], training loss: 0.0483
+16
+AVD_Home_010_1_traj9, ate: 357.64552435942653
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14768/15000], training loss: 0.0305
+[14776/15000], training loss: 0.0327
+[14784/15000], training loss: 0.0650
+[14792/15000], training loss: 0.0391
+[14800/15000], training loss: 0.0607
+16
+AVD_Home_010_1_traj9, ate: 356.7984893864222
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14808/15000], training loss: 0.0322
+[14816/15000], training loss: 0.0486
+[14824/15000], training loss: 0.0392
+[14832/15000], training loss: 0.0325
+[14840/15000], training loss: 0.0379
+16
+AVD_Home_010_1_traj9, ate: 358.47633311611526
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14848/15000], training loss: 0.0337
+[14856/15000], training loss: 0.0418
+[14864/15000], training loss: 0.0414
+[14872/15000], training loss: 0.0762
+[14880/15000], training loss: 0.0365
+16
+AVD_Home_010_1_traj9, ate: 358.1615534579086
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14888/15000], training loss: 0.0522
+[14896/15000], training loss: 0.0461
+[14904/15000], training loss: 0.0442
+[14912/15000], training loss: 0.0492
+[14920/15000], training loss: 0.1007
+16
+AVD_Home_010_1_traj9, ate: 356.05754967908445
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14928/15000], training loss: 0.0324
+[14936/15000], training loss: 0.0333
+[14944/15000], training loss: 0.0411
+[14952/15000], training loss: 0.0503
+[14960/15000], training loss: 0.0407
+16
+AVD_Home_010_1_traj9, ate: 355.5978126268073
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth
+[14968/15000], training loss: 0.0326
+[14976/15000], training loss: 0.0350
+[14984/15000], training loss: 0.0771
+[14992/15000], training loss: 0.0619
+[15000/15000], training loss: 0.0480
+16
+AVD_Home_010_1_traj9, ate: 356.3056163048604
+model saved to ../results/AVD/AVD_Home_010_1_traj9/model_best.pth

@@ -1,0 +1,10 @@
+maxpool
+latent size single: 16
+loading dataset
+Traceback (most recent call last):
+  File "lstm_train_AVD.py", line 68, in <module>
+    dataset = AVDtrain(opt.data_dir,opt.traj,instances_per_scene,opt.subsample_rate)
+  File "../dataset_loader/AVDtrain.py", line 33, in __init__
+    depth_files = [line.rstrip('\n') for line in open(traj_file)]
+FileNotFoundError: [Errno 2] No such file or directory: '/home/mmvc/mmvc-ny-nas/Yi_Shi/data/ActiveVisionDataset/Home_008_1/local_point_cloud/traj10.txt'
+./lstm_run_train_AVD.sh: line 25: /home/mmvc: Is a directory
